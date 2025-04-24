@@ -1,0 +1,3897 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Mozambique",
+        "population": 31255435,
+        "iso3": "MOZ",
+        "iso2": "MZ",
+        "NAME_ES": "Mozambique",
+        "NAME_PT": "Moçambique",
+        "NAME_FR": "Mozambique",
+        "NAME_ID": "Mozambique",
+        "NAME_ZH": "莫桑比克"
+      },
+      "geometry": {
+        "coordinates": [34.76604661537744, -18.06893200433465],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Congo Democratic Republic",
+        "population": 92150000,
+        "iso3": "COD",
+        "NAME_ES": "República Democrática del Congo",
+        "NAME_PT": "República Democrática do Congo",
+        "NAME_FR": "République démocratique du Congo",
+        "NAME_ID": "Republik Demokratik Kongo",
+        "NAME_ZH": "刚果民主共和国"
+      },
+      "geometry": {
+        "coordinates": [23.297377055402215, -1.154704072817526],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "South Africa",
+        "population": 60041996,
+        "iso3": "ZAF",
+        "NAME_ES": "Sudáfrica",
+        "NAME_PT": "África do Sul",
+        "NAME_FR": "Afrique du Sud",
+        "NAME_ID": "Afrika Selatan",
+        "NAME_ZH": "南非"
+      },
+      "geometry": {
+        "coordinates": [24.172682267915807, -28.353597806829676],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Lesotho",
+        "population": 2142252,
+        "iso3": "LSO",
+        "iso2": "LS",
+        "NAME_ES": "Lesotho",
+        "NAME_PT": "Lesoto",
+        "NAME_FR": "Lesotho",
+        "NAME_ID": "Lesotho",
+        "NAME_ZH": "莱索托"
+      },
+      "geometry": {
+        "coordinates": [28.206431474798684, -29.589506746620355],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Congo Republic",
+        "population": 5645000,
+        "iso3": "COG",
+        "NAME_ES": "Congo",
+        "NAME_PT": "Congo",
+        "NAME_FR": "Congo",
+        "NAME_ID": "Congo",
+        "NAME_ZH": "刚果共和国"
+      },
+      "geometry": {
+        "coordinates": [15.914084193529433, -0.46866865044899875],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Equatorial Guinea",
+        "population": 1402985,
+        "iso3": "GNQ",
+        "NAME_ES": "Guinea Ecuatorial",
+        "NAME_PT": "Guiné Equatorial",
+        "NAME_FR": "Guinée équatoriale",
+        "NAME_ID": "Guinea Khatulistiwa",
+        "NAME_ZH": "赤道几内亚"
+      },
+      "geometry": {
+        "coordinates": [10.484791635605719, 1.5774591242065812],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Uzbekistan",
+        "population": 34960000,
+        "iso3": "UZB",
+        "NAME_ES": "Uzbekistán",
+        "NAME_PT": "Uzbequistão",
+        "NAME_FR": "Ouzbékistan",
+        "NAME_ID": "Uzbekistan",
+        "NAME_ZH": "乌兹别克斯坦"
+      },
+      "geometry": {
+        "coordinates": [63.56298003272167, 41.73345079452706],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Tajikistan",
+        "population": 9537642,
+        "iso3": "TJK",
+        "NAME_ES": "Tayikistán",
+        "NAME_PT": "Tajiquistão",
+        "NAME_FR": "Tadjikistan",
+        "NAME_ID": "Tajikistan",
+        "NAME_ZH": "塔吉克斯坦"
+      },
+      "geometry": {
+        "coordinates": [70.95148878560256, 38.81846825913005],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Turkmenistan",
+        "population": 6031187,
+        "iso3": "TKM",
+        "NAME_ES": "Turkmenistán",
+        "NAME_PT": "Turcomenistão",
+        "NAME_FR": "Turkménistan",
+        "NAME_ID": "Turkmenistan",
+        "NAME_ZH": "土库曼斯坦"
+      },
+      "geometry": {
+        "coordinates": [59.54063799236406, 38.89158006545998],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Iran",
+        "population": 85028800,
+        "iso3": "IRN",
+        "iso2": "IR",
+        "NAME_ES": "Irán",
+        "NAME_PT": "Irã",
+        "NAME_FR": "Iran",
+        "NAME_ID": "Iran",
+        "NAME_ZH": "伊朗"
+      },
+      "geometry": {
+        "coordinates": [54.54531838080379, 32.51178211694462],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Syria",
+        "population": 17500657,
+        "iso3": "SYR",
+        "NAME_ES": "Siria",
+        "NAME_PT": "Síria",
+        "NAME_FR": "Syrie",
+        "NAME_ID": "Syria",
+        "NAME_ZH": "叙利亚"
+      },
+      "geometry": {
+        "coordinates": [38.44663243951921, 34.96051242506259],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Jordan",
+        "population": 10203140,
+        "iso3": "JOR",
+        "NAME_ES": "Jordania",
+        "NAME_PT": "Jordânia",
+        "NAME_FR": "Jordanie",
+        "NAME_ID": "Yordania",
+        "NAME_ZH": "约旦"
+      },
+      "geometry": {
+        "coordinates": [36.4279824772093, 31.056481098331155],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Palestine",
+        "population": 5101414,
+        "iso3": "PSE",
+        "NAME_ES": "Palestina",
+        "NAME_PT": "Palestina",
+        "NAME_FR": "Palestine",
+        "NAME_ID": "Wilayah Palestina",
+        "NAME_ZH": "巴勒斯坦领土"
+      },
+      "geometry": {
+        "coordinates": [34.37553896169571, 31.442362455417452],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Israel",
+        "population": 92150000,
+        "iso3": "ISR",
+        "NAME_ES": "Israel",
+        "NAME_PT": "Israel",
+        "NAME_FR": "Israël",
+        "NAME_ID": "Israel",
+        "NAME_ZH": "以色列"
+      },
+      "geometry": {
+        "coordinates": [34.86180048807431, 31.820049336841016],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Bulgaria",
+        "population": 7153783,
+        "iso3": "BGR",
+        "NAME_ES": "Bulgaria",
+        "NAME_PT": "Bulgária",
+        "NAME_FR": "Bulgarie",
+        "NAME_ID": "Bulgaria",
+        "NAME_ZH": "保加利亚"
+      },
+      "geometry": {
+        "coordinates": [25.206981212289183, 42.762258058966125],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Bosnia and Herzegovina",
+        "population": 3280819,
+        "iso3": "BIH",
+        "NAME_ES": "Bosnia y Herzegovina",
+        "NAME_PT": "Bósnia e Herzegovina",
+        "NAME_FR": "Bosnie-Herzégovine",
+        "NAME_ID": "Bosnia dan Herzegovina",
+        "NAME_ZH": "波斯尼亚和黑塞哥维那"
+      },
+      "geometry": {
+        "coordinates": [17.779643255730093, 44.15476774495081],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Montenegro",
+        "population": 628062,
+        "iso3": "MNE",
+        "NAME_ES": "Montenegro",
+        "NAME_PT": "Montenegro",
+        "NAME_FR": "Monténégro",
+        "NAME_ID": "Montenegro",
+        "NAME_ZH": "黑山"
+      },
+      "geometry": {
+        "coordinates": [19.1861023985573, 42.79535489577422],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Albania",
+        "population": 2877797,
+        "iso3": "ALB",
+        "iso2": "AL",
+        "NAME_ES": "Albania",
+        "NAME_PT": "Albânia",
+        "NAME_FR": "Albanie",
+        "NAME_ID": "Albania",
+        "NAME_ZH": "阿尔巴尼亚"
+      },
+      "geometry": {
+        "coordinates": [20.20489501596221, 40.619385878002305],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Switzerland",
+        "population": 8654618,
+        "iso3": "CHE",
+        "NAME_ES": "Suiza",
+        "NAME_PT": "Suíça",
+        "NAME_FR": "Suisse",
+        "NAME_ID": "Switzerland",
+        "NAME_ZH": "瑞士"
+      },
+      "geometry": {
+        "coordinates": [8.297268818664245, 46.801220663601306],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Liechtenstein",
+        "population": 38137,
+        "iso3": "LIE",
+        "iso2": "LI",
+        "NAME_ES": "Liechtenstein",
+        "NAME_PT": "Liechtenstein",
+        "NAME_FR": "Liechtenstein",
+        "NAME_ID": "Liechtenstein",
+        "NAME_ZH": "列支敦士登"
+      },
+      "geometry": {
+        "coordinates": [9.556351344432953, 47.15054760188299],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Jersey",
+        "population": 100800,
+        "iso3": "JEY",
+        "NAME_ES": "Jersey",
+        "NAME_PT": "Jersey",
+        "NAME_FR": "Jersey",
+        "NAME_ID": "Jersey",
+        "NAME_ZH": "泽西岛"
+      },
+      "geometry": {
+        "coordinates": [-2.145699188971688, 49.209004989009586],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Guernsey",
+        "population": 62999,
+        "iso3": "GGY",
+        "NAME_ES": "Guernsey",
+        "NAME_PT": "Guernsey",
+        "NAME_FR": "Guernesey",
+        "NAME_ID": "Guernsey",
+        "NAME_ZH": "根西岛"
+      },
+      "geometry": {
+        "coordinates": [-2.571384287648932, 49.4523239112226],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Canada",
+        "population": 38005238,
+        "iso3": "CAN",
+        "NAME_ES": "Canadá",
+        "NAME_PT": "Canadá",
+        "NAME_FR": "Canada",
+        "NAME_ID": "Canada",
+        "NAME_ZH": "加拿大"
+      },
+      "geometry": {
+        "coordinates": [-105.0974599553109, 55.53332584092317],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Bangladesh",
+        "population": 166303542,
+        "iso3": "BGD",
+        "NAME_ES": "Bangladés",
+        "NAME_PT": "Bangladesh",
+        "NAME_FR": "Bangladesh",
+        "NAME_ID": "Bangladesh",
+        "NAME_ZH": "孟加拉国"
+      },
+      "geometry": {
+        "coordinates": [89.78397988429201, 24.26407288869381],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Belgium",
+        "population": 11590846,
+        "iso3": "BEL",
+        "NAME_ES": "Bélgica",
+        "NAME_PT": "Bélgica",
+        "NAME_FR": "Belgique",
+        "NAME_ID": "Belgia",
+        "NAME_ZH": "比利时"
+      },
+      "geometry": {
+        "coordinates": [4.582092628643534, 50.46527025210008],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Burkina Faso",
+        "population": 20903273,
+        "iso3": "BFA",
+        "NAME_ES": "Burkina Faso",
+        "NAME_PT": "Burquina Faso",
+        "NAME_FR": "Burkina Faso",
+        "NAME_ID": "Burkina Faso",
+        "NAME_ZH": "布基纳法索"
+      },
+      "geometry": { "coordinates": [-1.31, 12.22], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Barbados",
+        "population": 287471,
+        "iso3": "BRB",
+        "NAME_ES": "Barbados",
+        "NAME_PT": "Barbados",
+        "NAME_FR": "Barbade",
+        "NAME_ID": "Barbados",
+        "NAME_ZH": "巴巴多斯"
+      },
+      "geometry": { "coordinates": [-59.37, 13.06], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Wallis and Futuna",
+        "population": 11234,
+        "iso3": "WLF",
+        "NAME_ES": "Wallis y Futuna",
+        "NAME_PT": "Wallis e Futuna",
+        "NAME_FR": "Wallis et Futuna",
+        "NAME_ID": "Wallis dan Futuna",
+        "NAME_ZH": "瓦利斯和富图纳"
+      },
+      "geometry": { "coordinates": [-171.56, -13.57], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Saint Barthelemy",
+        "population": 9800,
+        "iso3": "BLM",
+        "NAME_ES": "San Bartolomé",
+        "NAME_PT": "São Bartolomeu",
+        "NAME_FR": "Saint-Barthélemy",
+        "NAME_ID": "Saint Barthélemy",
+        "NAME_ZH": "圣巴特勒米"
+      },
+      "geometry": { "coordinates": [-62.51, 17.53], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Bermuda",
+        "population": 61954,
+        "iso3": "BMU",
+        "NAME_ES": "Bermudas",
+        "NAME_PT": "Bermudas",
+        "NAME_FR": "Bermudes",
+        "NAME_ID": "Bermuda",
+        "NAME_ZH": "百慕大"
+      },
+      "geometry": { "coordinates": [-64.47, 32.17], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Brunei",
+        "population": 437483,
+        "iso3": "BRN",
+        "NAME_ES": "Brunéi",
+        "NAME_PT": "Brunei",
+        "NAME_FR": "Brunéi",
+        "NAME_ID": "Brunei",
+        "NAME_ZH": "文莱"
+      },
+      "geometry": { "coordinates": [114.56, 4.53], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Bolivia",
+        "population": 11673021,
+        "iso3": "BOL",
+        "NAME_ES": "Bolivia",
+        "NAME_PT": "Bolívia",
+        "NAME_FR": "Bolivie",
+        "NAME_ID": "Bolivia",
+        "NAME_ZH": "玻利维亚"
+      },
+      "geometry": {
+        "coordinates": [-64.64248653493391, -16.985409150625262],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Bahrain",
+        "population": 1701583,
+        "iso3": "BHR",
+        "NAME_ES": "Baréin",
+        "NAME_PT": "Barém",
+        "NAME_FR": "Bahreïn",
+        "NAME_ID": "Bahrain",
+        "NAME_ZH": "巴林"
+      },
+      "geometry": { "coordinates": [50.34, 26.14], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Burundi",
+        "population": 11890781,
+        "iso3": "BDI",
+        "NAME_ES": "Burundi",
+        "NAME_PT": "Burundi",
+        "NAME_FR": "Burundi",
+        "NAME_ID": "Burundi",
+        "NAME_ZH": "布隆迪"
+      },
+      "geometry": { "coordinates": [29.21, -3.22], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Benin",
+        "population": 12123198,
+        "iso3": "BEN",
+        "NAME_ES": "Benín",
+        "NAME_PT": "Benin",
+        "NAME_FR": "Bénin",
+        "NAME_ID": "Benin",
+        "NAME_ZH": "贝宁"
+      },
+      "geometry": {
+        "coordinates": [2.263665841973416, 10.329991644444867],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Bhutan",
+        "population": 7716124,
+        "iso3": "BTN",
+        "NAME_ES": "Bután",
+        "NAME_PT": "Butão",
+        "NAME_FR": "Bhoutan",
+        "NAME_ID": "Bhutan",
+        "NAME_ZH": "不丹"
+      },
+      "geometry": { "coordinates": [89.36, 27.29], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Jamaica",
+        "population": 2961161,
+        "iso3": "JAM",
+        "NAME_ES": "Jamaica",
+        "NAME_PT": "Jamaica",
+        "NAME_FR": "Jamaïque",
+        "NAME_ID": "Jamaika",
+        "NAME_ZH": "牙买加"
+      },
+      "geometry": { "coordinates": [-76.48, 18], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Botswana",
+        "population": 2351625,
+        "iso3": "BWA",
+        "NAME_ES": "Botsuana",
+        "NAME_PT": "Botsuana",
+        "NAME_FR": "Botswana",
+        "NAME_ID": "Botswana",
+        "NAME_ZH": "博茨瓦纳"
+      },
+      "geometry": {
+        "coordinates": [24.508600596819935, -22.267729647209816],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Samoa",
+        "population": 198410,
+        "iso3": "WSM",
+        "NAME_ES": "Samoa",
+        "NAME_PT": "Samoa",
+        "NAME_FR": "Samoa",
+        "NAME_ID": "Samoa",
+        "NAME_ZH": "萨摩亚"
+      },
+      "geometry": { "coordinates": [-171.44, -13.5], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Brazil",
+        "population": 212559409,
+        "iso3": "BRA",
+        "NAME_ES": "Brasil",
+        "NAME_PT": "Brasil",
+        "NAME_FR": "Brésil",
+        "NAME_ID": "Brasil",
+        "NAME_ZH": "巴西"
+      },
+      "geometry": {
+        "coordinates": [-51.38779800828139, -9.62827639895612],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Bahamas",
+        "population": 393248,
+        "iso3": "BHS",
+        "NAME_ES": "Bahamas",
+        "NAME_PT": "Bahamas",
+        "NAME_FR": "Bahamas",
+        "NAME_ID": "Bahamas",
+        "NAME_ZH": "巴哈马"
+      },
+      "geometry": { "coordinates": [-77.21, 25.05], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Belarus",
+        "population": 9449323,
+        "iso3": "BLR",
+        "NAME_ES": "Bielorrusia",
+        "NAME_PT": "Bielorrússia",
+        "NAME_FR": "Biélorussie",
+        "NAME_ID": "Belarus",
+        "NAME_ZH": "白俄罗斯"
+      },
+      "geometry": { "coordinates": [27.34, 53.54], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Belize",
+        "population": 397628,
+        "iso3": "BLZ",
+        "NAME_ES": "Belice",
+        "NAME_PT": "Belize",
+        "NAME_FR": "Belize",
+        "NAME_ID": "Belize",
+        "NAME_ZH": "伯利兹"
+      },
+      "geometry": { "coordinates": [-88.46, 17.15], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Russia",
+        "population": 145912025,
+        "iso3": "RUS",
+        "NAME_ES": "Rusia",
+        "NAME_PT": "Rússia",
+        "NAME_FR": "Russie",
+        "NAME_ID": "Rusia",
+        "NAME_ZH": "俄罗斯"
+      },
+      "geometry": {
+        "coordinates": [96.1529883816475, 61.99851869055509],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Rwanda",
+        "population": 13038662,
+        "iso3": "RWA",
+        "NAME_ES": "Ruanda",
+        "NAME_PT": "Ruanda",
+        "NAME_FR": "Rwanda",
+        "NAME_ID": "Rwanda",
+        "NAME_ZH": "卢旺达"
+      },
+      "geometry": { "coordinates": [30.04, -1.57], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Serbia",
+        "population": 8737371,
+        "iso3": "SRB",
+        "NAME_ES": "Serbia",
+        "NAME_PT": "Sérvia",
+        "NAME_FR": "Serbie",
+        "NAME_ID": "Serbia",
+        "NAME_ZH": "塞尔维亚"
+      },
+      "geometry": {
+        "coordinates": [20.795847309207534, 44.218879479216525],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Timor-Leste",
+        "population": 1318442,
+        "iso3": "TLS",
+        "NAME_ES": "Timor-Leste",
+        "NAME_PT": "Timor-Leste",
+        "NAME_FR": "Timor oriental",
+        "NAME_ID": "Timor Leste",
+        "NAME_ZH": "东帝汶"
+      },
+      "geometry": { "coordinates": [125.36, -8.35], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Romania",
+        "population": 19237691,
+        "iso3": "ROU",
+        "NAME_ES": "Rumanía",
+        "NAME_PT": "Romênia",
+        "NAME_FR": "Roumanie",
+        "NAME_ID": "Rumania",
+        "NAME_ZH": "罗马尼亚"
+      },
+      "geometry": {
+        "coordinates": [24.963401999541983, 45.809270260173356],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Tokelau",
+        "population": 1466,
+        "iso3": "TKL",
+        "NAME_ES": "Tokelau",
+        "NAME_PT": "Tokelau",
+        "NAME_FR": "Tokelau",
+        "NAME_ID": "Tokelau",
+        "NAME_ZH": "托克劳"
+      },
+      "geometry": { "coordinates": [-172, -9], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Guinea-Bissau",
+        "population": 1967998,
+        "iso3": "GNB",
+        "NAME_ES": "Guinea-Bisáu",
+        "NAME_PT": "Guiné-Bissau",
+        "NAME_FR": "Guinée-Bissau",
+        "NAME_ID": "Guinea-Bissau",
+        "NAME_ZH": "几内亚比绍"
+      },
+      "geometry": {
+        "coordinates": [-14.921481975559066, 12.049332469186334],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Guam",
+        "population": 168783,
+        "iso3": "GUM",
+        "NAME_ES": "Guam",
+        "NAME_PT": "Guame",
+        "NAME_FR": "Guam",
+        "NAME_ID": "Guam",
+        "NAME_ZH": "关岛"
+      },
+      "geometry": { "coordinates": [144.44, 13.28], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Guatemala",
+        "population": 17915567,
+        "iso3": "GTM",
+        "NAME_ES": "Guatemala",
+        "NAME_PT": "Guatemala",
+        "NAME_FR": "Guatemala",
+        "NAME_ID": "Guatemala",
+        "NAME_ZH": "危地马拉"
+      },
+      "geometry": {
+        "coordinates": [-90.4458936471863, 15.577484170724441],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Greece",
+        "population": 10423054,
+        "iso3": "GRC",
+        "NAME_ES": "Grecia",
+        "NAME_PT": "Grécia",
+        "NAME_FR": "Grèce",
+        "NAME_ID": "Yunani",
+        "NAME_ZH": "希腊"
+      },
+      "geometry": {
+        "coordinates": [23.858150514438936, 38.47649937262344],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Japan",
+        "population": 126476461,
+        "iso3": "JPN",
+        "NAME_ES": "Japón",
+        "NAME_PT": "Japão",
+        "NAME_FR": "Japon",
+        "NAME_ID": "Jepang",
+        "NAME_ZH": "日本"
+      },
+      "geometry": {
+        "coordinates": [138.68942447708747, 36.33432670398254],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Guyana",
+        "population": 786559,
+        "iso3": "GUY",
+        "NAME_ES": "Guyana",
+        "NAME_PT": "Guiana",
+        "NAME_FR": "Guyane",
+        "NAME_ID": "Guyana",
+        "NAME_ZH": "圭亚那"
+      },
+      "geometry": {
+        "coordinates": [-58.991588655111634, 5.552978545139904],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Georgia",
+        "population": 3989167,
+        "iso3": "GEO",
+        "NAME_ES": "Georgia",
+        "NAME_PT": "Geórgia",
+        "NAME_FR": "Géorgie",
+        "NAME_ID": "Georgia",
+        "NAME_ZH": "格鲁吉亚"
+      },
+      "geometry": {
+        "coordinates": [43.39351550316971, 42.13201280792733],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Grenada",
+        "population": 112519,
+        "iso3": "GRD",
+        "NAME_ES": "Granada",
+        "NAME_PT": "Granada",
+        "NAME_FR": "Grenade",
+        "NAME_ID": "Grenada",
+        "NAME_ZH": "格林纳达"
+      },
+      "geometry": { "coordinates": [-61.45, 12.03], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "United Kingdom",
+        "population": 67886004,
+        "iso3": "GBR",
+        "NAME_ES": "Reino Unido",
+        "NAME_PT": "Reino Unido",
+        "NAME_FR": "Royaume-Uni",
+        "NAME_ID": "Inggris",
+        "NAME_ZH": "英国"
+      },
+      "geometry": {
+        "coordinates": [-2.1580891340989923, 53.96287828154907],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Gabon",
+        "population": 2225728,
+        "iso3": "GAB",
+        "NAME_ES": "Gabón",
+        "NAME_PT": "Gabão",
+        "NAME_FR": "Gabon",
+        "NAME_ID": "Gabon",
+        "NAME_ZH": "加蓬"
+      },
+      "geometry": {
+        "coordinates": [11.813040073193054, -0.6034219050155412],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "El Salvador",
+        "population": 6486205,
+        "iso3": "SLV",
+        "NAME_ES": "El Salvador",
+        "NAME_PT": "El Salvador",
+        "NAME_FR": "El Salvador",
+        "NAME_ID": "El Salvador",
+        "NAME_ZH": "萨尔瓦多"
+      },
+      "geometry": { "coordinates": [-89.12, 13.42], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Guinea",
+        "population": 13132792,
+        "iso3": "GIN",
+        "NAME_ES": "Guinea",
+        "NAME_PT": "Guiné",
+        "NAME_FR": "Guinée",
+        "NAME_ID": "Guinea",
+        "NAME_ZH": "几内亚"
+      },
+      "geometry": {
+        "coordinates": [-11.01213681504545, 10.796560081076096],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Gambia",
+        "population": 2416608,
+        "iso3": "GMB",
+        "NAME_ES": "Gambia",
+        "NAME_PT": "Gâmbia",
+        "NAME_FR": "Gambie",
+        "NAME_ID": "Gambia",
+        "NAME_ZH": "冈比亚"
+      },
+      "geometry": { "coordinates": [-16.34, 13.27], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Greenland",
+        "population": 56375,
+        "iso3": "GRL",
+        "NAME_ES": "Groenlandia",
+        "NAME_PT": "Groenlândia",
+        "NAME_FR": "Groenland",
+        "NAME_ID": "Greenland",
+        "NAME_ZH": "格林兰"
+      },
+      "geometry": { "coordinates": [-51.45, 64.11], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Gibraltar",
+        "population": 33140,
+        "iso3": "GIB",
+        "NAME_ES": "Gibraltar",
+        "NAME_PT": "Gibraltar",
+        "NAME_FR": "Gibraltar",
+        "NAME_ID": "Gibraltar",
+        "NAME_ZH": "直布罗陀"
+      },
+      "geometry": {
+        "coordinates": [-5.350370502873139, 36.141291214624545],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Ghana",
+        "population": 31072945,
+        "iso3": "GHA",
+        "NAME_ES": "Ghana",
+        "NAME_PT": "Gana",
+        "NAME_FR": "Ghana",
+        "NAME_ID": "Ghana",
+        "NAME_ZH": "加纳"
+      },
+      "geometry": {
+        "coordinates": [-1.2571420750812523, 6.915929441705119],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Oman",
+        "population": 5106622,
+        "iso3": "OMN",
+        "NAME_ES": "Omán",
+        "NAME_PT": "Omã",
+        "NAME_FR": "Oman",
+        "NAME_ID": "Oman",
+        "NAME_ZH": "阿曼"
+      },
+      "geometry": {
+        "coordinates": [56.98193965287613, 21.261341684004076],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Tunisia",
+        "population": 11818618,
+        "iso3": "TUN",
+        "NAME_ES": "Túnez",
+        "NAME_PT": "Tunísia",
+        "NAME_FR": "Tunisie",
+        "NAME_ID": "Tunisia",
+        "NAME_ZH": "突尼斯"
+      },
+      "geometry": {
+        "coordinates": [9.44664592086015, 34.06731270226002],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Croatia",
+        "population": 4105267,
+        "iso3": "HRV",
+        "NAME_ES": "Croacia",
+        "NAME_PT": "Croácia",
+        "NAME_FR": "Croatie",
+        "NAME_ID": "Kroasia",
+        "NAME_ZH": "克罗地亚"
+      },
+      "geometry": {
+        "coordinates": [16.72867899487801, 45.64988321348549],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Haiti",
+        "population": 11402533,
+        "iso3": "HTI",
+        "NAME_ES": "Haití",
+        "NAME_PT": "Haiti",
+        "NAME_FR": "Haïti",
+        "NAME_ID": "Haiti",
+        "NAME_ZH": "海地"
+      },
+      "geometry": { "coordinates": [-72.2, 18.32], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Hungary",
+        "population": 9759794,
+        "iso3": "HUN",
+        "NAME_ES": "Hungría",
+        "NAME_PT": "Hungria",
+        "NAME_FR": "Hongrie",
+        "NAME_ID": "Hongaria",
+        "NAME_ZH": "匈牙利"
+      },
+      "geometry": { "coordinates": [19.05, 47.3], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Hong Kong",
+        "population": 7496988,
+        "iso3": "HKG",
+        "NAME_ES": "Hong Kong",
+        "NAME_PT": "Hong Kong",
+        "NAME_FR": "Hong Kong",
+        "NAME_ID": "Hong Kong",
+        "NAME_ZH": "香港"
+      },
+      "geometry": { "coordinates": [114.1, 22.15], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Honduras",
+        "population": 9904607,
+        "iso3": "HND",
+        "NAME_ES": "Honduras",
+        "NAME_PT": "Honduras",
+        "NAME_FR": "Honduras",
+        "NAME_ID": "Honduras",
+        "NAME_ZH": "洪都拉斯"
+      },
+      "geometry": {
+        "coordinates": [-86.88539143506476, 14.744069088958765],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Venezuela",
+        "population": 28435940,
+        "iso3": "VEN",
+        "NAME_ES": "Venezuela",
+        "NAME_PT": "Venezuela",
+        "NAME_FR": "Venezuela",
+        "NAME_ID": "Venezuela",
+        "NAME_ZH": "委内瑞拉"
+      },
+      "geometry": {
+        "coordinates": [-65.84447833743923, 7.665751086327166],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Puerto Rico",
+        "population": 2984919,
+        "iso3": "PRI",
+        "NAME_ES": "Puerto Rico",
+        "NAME_PT": "Porto Rico",
+        "NAME_FR": "Porto Rico",
+        "NAME_ID": "Puerto Rico",
+        "NAME_ZH": "波多黎各"
+      },
+      "geometry": { "coordinates": [-66.07, 18.28], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Palau",
+        "population": 18092,
+        "iso3": "PLW",
+        "NAME_ES": "Palaos",
+        "NAME_PT": "Palau",
+        "NAME_FR": "Palaos",
+        "NAME_ID": "Palau",
+        "NAME_ZH": "帕劳"
+      },
+      "geometry": { "coordinates": [134.38, 7.29], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Portugal",
+        "population": 10196707,
+        "iso3": "PRT",
+        "NAME_ES": "Portugal",
+        "NAME_PT": "Portugal",
+        "NAME_FR": "Portugal",
+        "NAME_ID": "Portugal",
+        "NAME_ZH": "葡萄牙"
+      },
+      "geometry": { "coordinates": [-8.573222956611687, 39.61090559781138], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Paraguay",
+        "population": 7132538,
+        "iso3": "PRY",
+        "NAME_ES": "Paraguay",
+        "NAME_PT": "Paraguai",
+        "NAME_FR": "Paraguay",
+        "NAME_ID": "Paraguay",
+        "NAME_ZH": "巴拉圭"
+      },
+      "geometry": { "coordinates": [-57.4, -25.16], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Iraq",
+        "population": 40222503,
+        "iso3": "IRQ",
+        "NAME_ES": "Irak",
+        "NAME_PT": "Iraque",
+        "NAME_FR": "Irak",
+        "NAME_ID": "Irak",
+        "NAME_ZH": "伊拉克"
+      },
+      "geometry": { "coordinates": [44.23, 33.2], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Panama",
+        "population": 4314767,
+        "iso3": "PAN",
+        "NAME_ES": "Panamá",
+        "NAME_PT": "Panamá",
+        "NAME_FR": "Panama",
+        "NAME_ID": "Panama",
+        "NAME_ZH": "巴拿马"
+      },
+      "geometry": { "coordinates": [-79.32, 8.58], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "French Polynesia",
+        "population": 280908,
+        "iso3": "PYF",
+        "NAME_ES": "Polinesia Francesa",
+        "NAME_PT": "Polinésia Francesa",
+        "NAME_FR": "Polynésie française",
+        "NAME_ID": "Polinesia Prancis",
+        "NAME_ZH": "法属波利尼西亚"
+      },
+      "geometry": { "coordinates": [-149.34, -17.32], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Papua New Guinea",
+        "population": 8947027,
+        "iso3": "PNG",
+        "NAME_ES": "Papúa Nueva Guinea",
+        "NAME_PT": "Papua Nova Guiné",
+        "NAME_FR": "Papouasie-Nouvelle-Guinée",
+        "NAME_ID": "Papua Nugini",
+        "NAME_ZH": "巴布亚新几内亚"
+      },
+      "geometry": { "coordinates": [147.1, -9.3], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Peru",
+        "population": 32971854,
+        "iso3": "PER",
+        "NAME_ES": "Perú",
+        "NAME_PT": "Peru",
+        "NAME_FR": "Pérou",
+        "NAME_ID": "Peru",
+        "NAME_ZH": "秘鲁"
+      },
+      "geometry": {
+        "coordinates": [-75.27371955553251, -10.241235986438324],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Pakistan",
+        "population": 225199937,
+        "iso3": "PAK",
+        "NAME_ES": "Pakistán",
+        "NAME_PT": "Paquistão",
+        "NAME_FR": "Pakistan",
+        "NAME_ID": "Pakistan",
+        "NAME_ZH": "巴基斯坦"
+      },
+      "geometry": {
+        "coordinates": [67.57075609703807, 28.189075474031327],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Philippines",
+        "population": 109581085,
+        "iso3": "PHL",
+        "NAME_ES": "Filipinas",
+        "NAME_PT": "Filipinas",
+        "NAME_FR": "Philippines",
+        "NAME_ID": "Filipina",
+        "NAME_ZH": "菲律宾"
+      },
+      "geometry": {
+        "coordinates": [122.76707794836886, 11.63012071534998],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Poland",
+        "population": 37950802,
+        "iso3": "POL",
+        "NAME_ES": "Polonia",
+        "NAME_PT": "Polônia",
+        "NAME_FR": "Pologne",
+        "NAME_ID": "Polandia",
+        "NAME_ZH": "波兰"
+      },
+      "geometry": {
+        "coordinates": [19.469457746943277, 52.11918188713366],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Zambia",
+        "population": 18383956,
+        "iso3": "ZMB",
+        "NAME_ES": "Zambia",
+        "NAME_PT": "Zâmbia",
+        "NAME_FR": "Zambie",
+        "NAME_ID": "Zambia",
+        "NAME_ZH": "赞比亚"
+      },
+      "geometry": {
+        "coordinates": [27.380078669279342, -14.035155125749128],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Western Sahara",
+        "population": 597339,
+        "iso3": "ESH",
+        "NAME_ES": "Sahara Occidental",
+        "NAME_PT": "Saara Ocidental",
+        "NAME_FR": "Sahara occidental",
+        "NAME_ID": "Sahara Barat",
+        "NAME_ZH": "西撒哈拉"
+      },
+      "geometry": {
+        "coordinates": [-13.701814849566375, 24.619436544282],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Estonia",
+        "population": 1326539,
+        "iso3": "EST",
+        "NAME_ES": "Estonia",
+        "NAME_PT": "Estónia",
+        "NAME_FR": "Estonie",
+        "NAME_ID": "Estonia",
+        "NAME_ZH": "爱沙尼亚"
+      },
+      "geometry": {
+        "coordinates": [25.774216903787526, 58.78650043972713],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Egypt",
+        "population": 102334403,
+        "iso3": "EGY",
+        "NAME_ES": "Egipto",
+        "NAME_PT": "Egito",
+        "NAME_FR": "Égypte",
+        "NAME_ID": "Mesir",
+        "NAME_ZH": "埃及"
+      },
+      "geometry": {
+        "coordinates": [29.831217608307803, 26.51444542677531],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Ecuador",
+        "population": 17643045,
+        "iso3": "ECU",
+        "NAME_ES": "Ecuador",
+        "NAME_PT": "Equador",
+        "NAME_FR": "Équateur",
+        "NAME_ID": "Ekuador",
+        "NAME_ZH": "厄瓜多尔"
+      },
+      "geometry": {
+        "coordinates": [-78.3, -1.4308647812433195],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Italy",
+        "population": 60461826,
+        "iso3": "ITA",
+        "NAME_ES": "Italia",
+        "NAME_PT": "Itália",
+        "NAME_FR": "Italie",
+        "NAME_ID": "Italia",
+        "NAME_ZH": "意大利"
+      },
+      "geometry": {
+        "coordinates": [12.708150514438906, 42.49501145450726],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Vietnam",
+        "population": 97338579,
+        "iso3": "VNM",
+        "NAME_ES": "Vietnam",
+        "NAME_PT": "Vietnã",
+        "NAME_FR": "Vietnam",
+        "NAME_ID": "Vietnam",
+        "NAME_ZH": "越南"
+      },
+      "geometry": {
+        "coordinates": [108.52309806310201, 14.360331006780203],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Solomon Islands",
+        "population": 686878,
+        "iso3": "SLB",
+        "NAME_ES": "Islas Salomón",
+        "NAME_PT": "Ilhas Salomão",
+        "NAME_FR": "Îles Salomon",
+        "NAME_ID": "Kepulauan Salomo",
+        "NAME_ZH": "所罗门群岛"
+      },
+      "geometry": { "coordinates": [159.57, -9.26], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Ethiopia",
+        "population": 114963583,
+        "iso3": "ETH",
+        "NAME_ES": "Etiopía",
+        "NAME_PT": "Etiópia",
+        "NAME_FR": "Éthiopie",
+        "NAME_ID": "Ethiopia",
+        "NAME_ZH": "埃塞俄比亚"
+      },
+      "geometry": {
+        "coordinates": [39.3890427458805, 8.512946745793815],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Somalia",
+        "population": 15893219,
+        "iso3": "SOM",
+        "NAME_ES": "Somalia",
+        "NAME_PT": "Somália",
+        "NAME_FR": "Somalie",
+        "NAME_ID": "Somalia",
+        "NAME_ZH": "索马里"
+      },
+      "geometry": {
+        "coordinates": [47.38609554961414, 5.792247163821835],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Zimbabwe",
+        "population": 15893219,
+        "iso3": "ZWE",
+        "NAME_ES": "Zimbabue",
+        "NAME_PT": "Zimbábue",
+        "NAME_FR": "Zimbabwe",
+        "NAME_ID": "Zimbabwe",
+        "NAME_ZH": "津巴布韦"
+      },
+      "geometry": {
+        "coordinates": [29.926116632629913, -19.23937032391298],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Saudi Arabia",
+        "population": 35155871,
+        "iso3": "SAU",
+        "NAME_ES": "Arabia Saudita",
+        "NAME_PT": "Arábia Saudita",
+        "NAME_FR": "Arabie saoudite",
+        "NAME_ID": "Arab Saudi",
+        "NAME_ZH": "沙特阿拉伯"
+      },
+      "geometry": { "coordinates": [46.43, 24.38], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Spain",
+        "population": 46737342,
+        "iso3": "ESP",
+        "NAME_ES": "España",
+        "NAME_PT": "Espanha",
+        "NAME_FR": "Espagne",
+        "NAME_ID": "Spanyol",
+        "NAME_ZH": "西班牙"
+      },
+      "geometry": { "coordinates": [-3.41, 40.24], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Eritrea",
+        "population": 34630630,
+        "iso3": "ERI",
+        "NAME_ES": "Eritrea",
+        "NAME_PT": "Eritreia",
+        "NAME_FR": "Érythrée",
+        "NAME_ID": "Eritrea",
+        "NAME_ZH": "厄立特里亚"
+      },
+      "geometry": { "coordinates": [38.56, 15.2], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Moldova",
+        "population": 3540892,
+        "iso3": "MDA",
+        "NAME_ES": "Moldavia",
+        "NAME_PT": "Moldávia",
+        "NAME_FR": "Moldavie",
+        "NAME_ID": "Moldova",
+        "NAME_ZH": "摩尔多瓦"
+      },
+      "geometry": { "coordinates": [28.51, 47], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Madagascar",
+        "population": 27691019,
+        "iso3": "MDG",
+        "NAME_ES": "Madagascar",
+        "NAME_PT": "Madagáscar",
+        "NAME_FR": "Madagascar",
+        "NAME_ID": "Madagaskar",
+        "NAME_ZH": "马达加斯加"
+      },
+      "geometry": {
+        "coordinates": [46.62807733521501, -19.483672597388665],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Saint Martin",
+        "population": 38698,
+        "iso3": "MAF",
+        "NAME_ES": "San Martín",
+        "NAME_PT": "São Martinho",
+        "NAME_FR": "Saint-Martin",
+        "NAME_ID": "Saint Martin",
+        "NAME_ZH": "圣马丁"
+      },
+      "geometry": { "coordinates": [-63.05, 18.04], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Morocco",
+        "population": 37176808,
+        "iso3": "MAR",
+        "NAME_ES": "Marruecos",
+        "NAME_PT": "Marrocos",
+        "NAME_FR": "Maroc",
+        "NAME_ID": "Maroko",
+        "NAME_ZH": "摩洛哥"
+      },
+      "geometry": {
+        "coordinates": [-6.135603520971577, 32.2789472782492],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Monaco",
+        "population": 39244,
+        "iso3": "MCO",
+        "NAME_ES": "Mónaco",
+        "NAME_PT": "Mónaco",
+        "NAME_FR": "Monaco",
+        "NAME_ID": "Monaco",
+        "NAME_ZH": "摩纳哥"
+      },
+      "geometry": { "coordinates": [7.25, 43.44], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Myanmar",
+        "population": 54409794,
+        "iso3": "MMR",
+        "NAME_ES": "Birmania",
+        "NAME_PT": "Mianmar",
+        "NAME_FR": "Birmanie",
+        "NAME_ID": "Myanmar",
+        "NAME_ZH": "缅甸"
+      },
+      "geometry": {
+        "coordinates": [96.48901760124332, 21.226820173269626],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Mali",
+        "population": 20250834,
+        "iso3": "MLI",
+        "NAME_ES": "Mali",
+        "NAME_PT": "Mali",
+        "NAME_FR": "Mali",
+        "NAME_ID": "Mali",
+        "NAME_ZH": "马里"
+      },
+      "geometry": {
+        "coordinates": [-1.6157183800851556, 17.073725833604044],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Macao",
+        "population": 649341,
+        "iso3": "MAC",
+        "NAME_ES": "Macao",
+        "NAME_PT": "Macaú",
+        "NAME_FR": "Macao",
+        "NAME_ID": "Macao",
+        "NAME_ZH": "澳门"
+      },
+      "geometry": { "coordinates": [113.33, 22.1], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Mongolia",
+        "population": 3422928,
+        "iso3": "MNG",
+        "NAME_ES": "Mongolia",
+        "NAME_PT": "Mongólia",
+        "NAME_FR": "Mongolie",
+        "NAME_ID": "Mongolia",
+        "NAME_ZH": "蒙古"
+      },
+      "geometry": {
+        "coordinates": [103.22635283060349, 46.85464408119957],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Marshall Islands",
+        "population": 59194,
+        "iso3": "MHL",
+        "NAME_ES": "Islas Marshall",
+        "NAME_PT": "Ilhas Marshall",
+        "NAME_FR": "Îles Marshall",
+        "NAME_ID": "Kepulauan Marshall",
+        "NAME_ZH": "马绍尔群岛"
+      },
+      "geometry": { "coordinates": [171.23, 7.06], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Macedonia",
+        "population": 2083380,
+        "iso3": "MKD",
+        "NAME_ES": "Macedonia",
+        "NAME_PT": "Macedônia",
+        "NAME_FR": "Macédoine",
+        "NAME_ID": "Macedonia",
+        "NAME_ZH": "马其顿"
+      },
+      "geometry": {
+        "coordinates": [21.738785867170872, 41.64953617170238],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Mauritius",
+        "population": 1271767,
+        "iso3": "MUS",
+        "NAME_ES": "Mauricio",
+        "NAME_PT": "Maurícias",
+        "NAME_FR": "Maurice",
+        "NAME_ID": "Mauritius",
+        "NAME_ZH": "毛里求斯"
+      },
+      "geometry": { "coordinates": [57.29, -20.09], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Malta",
+        "population": 441538,
+        "iso3": "MLT",
+        "NAME_ES": "Malta",
+        "NAME_PT": "Malta",
+        "NAME_FR": "Malte",
+        "NAME_ID": "Malta",
+        "NAME_ZH": "马耳他"
+      },
+      "geometry": { "coordinates": [14.3, 35.53], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Malawi",
+        "population": 19129955,
+        "iso3": "MWI",
+        "NAME_ES": "Malawi",
+        "NAME_PT": "Malawi",
+        "NAME_FR": "Malawi",
+        "NAME_ID": "Malawi",
+        "NAME_ZH": "马拉维"
+      },
+      "geometry": {
+        "coordinates": [33.76159183289067, -13.225375520531227],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Maldives",
+        "population": 540544,
+        "iso3": "MDV",
+        "NAME_ES": "Maldivas",
+        "NAME_PT": "Maldivas",
+        "NAME_FR": "Maldives",
+        "NAME_ID": "Maladewa",
+        "NAME_ZH": "马尔代夫"
+      },
+      "geometry": { "coordinates": [73.3, 4.1], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Northern Mariana Islands",
+        "population": 57550,
+        "iso3": "MNP",
+        "NAME_ES": "Islas Marianas del Norte",
+        "NAME_PT": "Ilhas Marianas do Norte",
+        "NAME_FR": "Îles Mariannes du Nord",
+        "NAME_ID": "Kepulauan Mariana Utara",
+        "NAME_ZH": "北马里亚纳群岛"
+      },
+      "geometry": { "coordinates": [145.45, 15.12], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Montserrat",
+        "population": 4922,
+        "iso3": "MSR",
+        "NAME_ES": "Montserrat",
+        "NAME_PT": "Montserrat",
+        "NAME_FR": "Montserrat",
+        "NAME_ID": "Montserrat",
+        "NAME_ZH": "蒙特塞拉特"
+      },
+      "geometry": { "coordinates": [-62.13, 16.42], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Mauritania",
+        "population": 4649660,
+        "iso3": "MRT",
+        "NAME_ES": "Mauritania",
+        "NAME_PT": "Mauritânia",
+        "NAME_FR": "Mauritanie",
+        "NAME_ID": "Mauritania",
+        "NAME_ZH": "毛里塔尼亚"
+      },
+      "geometry": {
+        "coordinates": [-10.547758611501923, 19.74152270790031],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Isle of Man",
+        "population": 85032,
+        "iso3": "IMN",
+        "NAME_ES": "Isla de Man",
+        "NAME_PT": "Ilha de Man",
+        "NAME_FR": "Île de Man",
+        "NAME_ID": "Isle of Man",
+        "NAME_ZH": "马恩岛"
+      },
+      "geometry": {
+        "coordinates": [-4.587466370298508, 54.21437921357165],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Uganda",
+        "population": 45741000,
+        "iso3": "UGA",
+        "NAME_ES": "Uganda",
+        "NAME_PT": "Uganda",
+        "NAME_FR": "Ouganda",
+        "NAME_ID": "Uganda",
+        "NAME_ZH": "乌干达"
+      },
+      "geometry": {
+        "coordinates": [32.192997485536296, 1.329952502876298],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Malaysia",
+        "population": 32365998,
+        "iso3": "MYS",
+        "NAME_ES": "Malasia",
+        "NAME_PT": "Malásia",
+        "NAME_FR": "Malaisie",
+        "NAME_ID": "Malaysia",
+        "NAME_ZH": "马来西亚"
+      },
+      "geometry": {
+        "coordinates": [102.24272724181525, 4.451928851828518],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Mexico",
+        "population": 126190788,
+        "iso3": "MEX",
+        "NAME_ES": "México",
+        "NAME_PT": "México",
+        "NAME_FR": "Mexique",
+        "NAME_ID": "Meksiko",
+        "NAME_ZH": "墨西哥"
+      },
+      "geometry": {
+        "coordinates": [-102.77193281740726, 23.879638123014953],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "France",
+        "population": 67418484,
+        "iso3": "FRA",
+        "NAME_ES": "Francia",
+        "NAME_PT": "França",
+        "NAME_FR": "France",
+        "NAME_ID": "Prancis",
+        "NAME_ZH": "法国"
+      },
+      "geometry": {
+        "coordinates": [2.5825663851498293, 47.802339684491834],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "British Indian Ocean Territory",
+        "population": 3000,
+        "iso3": "IOT",
+        "NAME_ES": "Territorio Británico del Océano Índico",
+        "NAME_PT": "Território Britânico do Oceano Índico",
+        "NAME_FR": "Territoire britannique de l'océan Indien",
+        "NAME_ID": "Wilayah Britania di Samudera Hindia",
+        "NAME_ZH": "英属印度洋领地"
+      },
+      "geometry": { "coordinates": [71.3, -6], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Saint Helena Ascension and Tristan da Cunha",
+        "population": 4900,
+        "iso3": "SHN",
+        "NAME_ES": "Santa Elena, Ascensión y Tristan de Acuña",
+        "NAME_PT": "Santa Helena, Ascensão e Tristan da Cunha",
+        "NAME_FR": "Sainte-Hélène, Ascension et Tristan da Cunha",
+        "NAME_ID": "Saint Helena, Ascension dan Tristan da Cunha",
+        "NAME_ZH": "圣赫勒拿、阿森松和特里斯坦-达库尼亚"
+      },
+      "geometry": {
+        "coordinates": [-5.457031158883811, -15.560921881770085],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Finland",
+        "population": 5540718,
+        "iso3": "FIN",
+        "NAME_ES": "Finlandia",
+        "NAME_PT": "Finlândia",
+        "NAME_FR": "Finlande",
+        "NAME_ID": "Finlandia",
+        "NAME_ZH": "芬兰"
+      },
+      "geometry": {
+        "coordinates": [26.328706452351152, 62.77285080663297],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Fiji",
+        "population": 8964448,
+        "iso3": "FJI",
+        "NAME_ES": "Fiyi",
+        "NAME_PT": "Fiji",
+        "NAME_FR": "Fidji",
+        "NAME_ID": "Fiji",
+        "NAME_ZH": "斐济"
+      },
+      "geometry": { "coordinates": [178.25, -18.08], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Falkland Islands",
+        "population": 3480,
+        "iso3": "FLK",
+        "NAME_ES": "Islas Malvinas",
+        "NAME_PT": "Ilhas Malvinas",
+        "NAME_FR": "Îles Malouines",
+        "NAME_ID": "Kepulauan Falkland",
+        "NAME_ZH": "福克兰群岛"
+      },
+      "geometry": { "coordinates": [-57.51, -51.42], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Micronesia",
+        "population": 110790,
+        "iso3": "FSM",
+        "NAME_ES": "Micronesia",
+        "NAME_PT": "Micronésia",
+        "NAME_FR": "Micronésie",
+        "NAME_ID": "Mikronesia",
+        "NAME_ZH": "密克罗尼西亚"
+      },
+      "geometry": { "coordinates": [158.09, 6.55], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Faroe Islands",
+        "population": 48867,
+        "iso3": "FRO",
+        "NAME_ES": "Islas Feroe",
+        "NAME_PT": "Ilhas Faroé",
+        "NAME_FR": "Îles Féroé",
+        "NAME_ID": "Kepulauan Faroe",
+        "NAME_ZH": "法罗群岛"
+      },
+      "geometry": { "coordinates": [-6.46, 62.01], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Nicaragua",
+        "population": 6624554,
+        "iso3": "NIC",
+        "NAME_ES": "Nicaragua",
+        "NAME_PT": "Nicarágua",
+        "NAME_FR": "Nicaragua",
+        "NAME_ID": "Nicaragua",
+        "NAME_ZH": "尼加拉瓜"
+      },
+      "geometry": {
+        "coordinates": [-85.11002955194702, 12.3024810587936],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Netherlands",
+        "population": 17134876,
+        "iso3": "NLD",
+        "NAME_ES": "Países Bajos",
+        "NAME_PT": "Holanda",
+        "NAME_FR": "Pays-Bas",
+        "NAME_ID": "Belanda",
+        "NAME_ZH": "荷兰"
+      },
+      "geometry": {
+        "coordinates": [5.613498337618474, 51.972687785252795],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Norway",
+        "population": 5421241,
+        "iso3": "NOR",
+        "NAME_ES": "Noruega",
+        "NAME_PT": "Noruega",
+        "NAME_FR": "Norvège",
+        "NAME_ID": "Norwegia",
+        "NAME_ZH": "挪威"
+      },
+      "geometry": {
+        "coordinates": [8.64591941860105, 61.22722331349051],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Namibia",
+        "population": 2540916,
+        "iso3": "NAM",
+        "NAME_ES": "Namibia",
+        "NAME_PT": "Namíbia",
+        "NAME_FR": "Namibie",
+        "NAME_ID": "Namibia",
+        "NAME_ZH": "纳米比亚"
+      },
+      "geometry": {
+        "coordinates": [16.88337609549065, -21.255860501613807],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Vanuatu",
+        "population": 307150,
+        "iso3": "VUT",
+        "NAME_ES": "Vanuatu",
+        "NAME_PT": "Vanuatu",
+        "NAME_FR": "Vanuatu",
+        "NAME_ID": "Vanuatu",
+        "NAME_ZH": "瓦努阿图"
+      },
+      "geometry": { "coordinates": [168.19, -17.44], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "New Caledonia",
+        "population": 285499,
+        "iso3": "NCL",
+        "NAME_ES": "Nueva Caledonia",
+        "NAME_PT": "Nova Caledônia",
+        "NAME_FR": "Nouvelle-Calédonie",
+        "NAME_ID": "Kaledonia Baru",
+        "NAME_ZH": "新喀里多尼亚"
+      },
+      "geometry": { "coordinates": [166.27, -22.16], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Niger",
+        "population": 24206644,
+        "iso3": "NER",
+        "NAME_ES": "Níger",
+        "NAME_PT": "Níger",
+        "NAME_FR": "Niger",
+        "NAME_ID": "Niger",
+        "NAME_ZH": "尼日尔"
+      },
+      "geometry": {
+        "coordinates": [9.53732939472193, 17.26722100545946],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Nigeria",
+        "population": 206139587,
+        "iso3": "NGA",
+        "NAME_ES": "Nigeria",
+        "NAME_PT": "Nigéria",
+        "NAME_FR": "Nigeria",
+        "NAME_ID": "Nigeria",
+        "NAME_ZH": "尼日利亚"
+      },
+      "geometry": {
+        "coordinates": [8.128139601002808, 9.532694317083884],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "New Zealand",
+        "population": 4822233,
+        "iso3": "NZL",
+        "NAME_ES": "Nueva Zelanda",
+        "NAME_PT": "Nova Zelândia",
+        "NAME_FR": "Nouvelle-Zélande",
+        "NAME_ID": "New Zealand",
+        "NAME_ZH": "新西兰"
+      },
+      "geometry": { "coordinates": [171.86270898266713, -41.85026006519249], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Nepal",
+        "population": 30095080,
+        "iso3": "NPL",
+        "NAME_ES": "Nepal",
+        "NAME_PT": "Nepal",
+        "NAME_FR": "Népal",
+        "NAME_ID": "Nepal",
+        "NAME_ZH": "尼泊尔"
+      },
+      "geometry": {
+        "coordinates": [83.93594468180362, 28.08497366979227],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Nauru",
+        "population": 13232,
+        "iso3": "NRU",
+        "NAME_ES": "Nauru",
+        "NAME_PT": "Nauru",
+        "NAME_FR": "Nauru",
+        "NAME_ID": "Nauru",
+        "NAME_ZH": "瑙鲁"
+      },
+      "geometry": { "coordinates": [166.55, -0.32], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Niue",
+        "population": 1628,
+        "iso3": "NIU",
+        "NAME_ES": "Niue",
+        "NAME_PT": "Niue",
+        "NAME_FR": "Niue",
+        "NAME_ID": "Niue",
+        "NAME_ZH": "纽埃"
+      },
+      "geometry": { "coordinates": [-169.86612843530935, -19.02503930419637], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Cook Islands",
+        "population": 18100,
+        "iso3": "COK",
+        "NAME_ES": "Islas Cook",
+        "NAME_PT": "Ilhas Cook",
+        "NAME_FR": "Îles Cook",
+        "NAME_ID": "Kepulauan Cook",
+        "NAME_ZH": "库克群岛"
+      },
+      "geometry": { "coordinates": [-159.46, -21.12], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Ivory Coast",
+        "population": 26378275,
+        "iso3": "CIV",
+        "NAME_ES": "Costa de Marfil",
+        "NAME_PT": "Costa do Marfim",
+        "NAME_FR": "Côte d'Ivoire",
+        "NAME_ID": "Kosta Rima",
+        "NAME_ZH": "科特迪瓦"
+      },
+      "geometry": {
+        "coordinates": [-5.4192525605040895, 7.753888469522087],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Colombia",
+        "population": 50882891,
+        "iso3": "COL",
+        "NAME_ES": "Colombia",
+        "NAME_PT": "Colômbia",
+        "NAME_FR": "Colombie",
+        "NAME_ID": "Colombia",
+        "NAME_ZH": "哥伦比亚"
+      },
+      "geometry": {
+        "coordinates": [-73.26943091356983, 3.2565342413504945],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "China",
+        "population": 1402112000,
+        "iso3": "CHN",
+        "NAME_ES": "China",
+        "NAME_PT": "China",
+        "NAME_FR": "Chine",
+        "NAME_ID": "China",
+        "NAME_ZH": "中国"
+      },
+      "geometry": { "coordinates": [102.43, 35.34], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Cameroon",
+        "population": 26545864,
+        "iso3": "CMR",
+        "NAME_ES": "Camerún",
+        "NAME_PT": "Camarões",
+        "NAME_FR": "Cameroun",
+        "NAME_ID": "Cameroon",
+        "NAME_ZH": "喀麦隆"
+      },
+      "geometry": {
+        "coordinates": [12.096872769397718, 4.750326692075436],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Chile",
+        "population": 19116209,
+        "iso3": "CHL",
+        "NAME_ES": "Chile",
+        "NAME_PT": "Chile",
+        "NAME_FR": "Chili",
+        "NAME_ID": "Chile",
+        "NAME_ZH": "智利"
+      },
+      "geometry": {
+        "coordinates": [-70.20485772839235, -26.690053189238213],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Central African Republic",
+        "population": 4829767,
+        "iso3": "CAF",
+        "NAME_ES": "República Centroafricana",
+        "NAME_PT": "República Centro-Africana",
+        "NAME_FR": "République centrafricaine",
+        "NAME_ID": "Republik Afrika Tengah",
+        "NAME_ZH": "中非共和国"
+      },
+      "geometry": { "coordinates": [18.35, 4.22], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Czech Republic",
+        "population": 10708982,
+        "iso3": "CZE",
+        "NAME_ES": "República Checa",
+        "NAME_PT": "República Tcheca",
+        "NAME_FR": "République tchèque",
+        "NAME_ID": "Republik Ceko",
+        "NAME_ZH": "捷克共和国"
+      },
+      "geometry": {
+        "coordinates": [15.361977901487107, 49.75153004701032],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Cyprus",
+        "population": 1207361,
+        "iso3": "CYP",
+        "NAME_ES": "Chipre",
+        "NAME_PT": "Chipre",
+        "NAME_FR": "Chypre",
+        "NAME_ID": "Cyprus",
+        "NAME_ZH": "塞浦路斯"
+      },
+      "geometry": { "coordinates": [33.22, 35.1], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Christmas Island",
+        "population": 1500,
+        "iso3": "CXR",
+        "NAME_ES": "Isla Christmas",
+        "NAME_PT": "Ilha Christmas",
+        "NAME_FR": "Île Christmas",
+        "NAME_ID": "Kepulauan Christmas",
+        "NAME_ZH": "圣诞岛"
+      },
+      "geometry": {
+        "coordinates": [105.63991121453904, -10.481159325482722],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Costa Rica",
+        "population": 5094118,
+        "iso3": "CRI",
+        "NAME_ES": "Costa Rica",
+        "NAME_PT": "Costa Rica",
+        "NAME_FR": "Costa Rica",
+        "NAME_ID": "Costa Rica",
+        "NAME_ZH": "哥斯达黎加"
+      },
+      "geometry": {
+        "coordinates": [-84.05, 9.961722975695052],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Cape Verde",
+        "population": 555988,
+        "iso3": "CPV",
+        "NAME_ES": "Cabo Verde",
+        "NAME_PT": "Cabo Verde",
+        "NAME_FR": "Cap-Vert",
+        "NAME_ID": "Cape Verde",
+        "NAME_ZH": "佛得角"
+      },
+      "geometry": { "coordinates": [-23.31, 14.55], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Cuba",
+        "population": 11326616,
+        "iso3": "CUB",
+        "NAME_ES": "Cuba",
+        "NAME_PT": "Cuba",
+        "NAME_FR": "Cuba",
+        "NAME_ID": "Cuba",
+        "NAME_ZH": "古巴"
+      },
+      "geometry": {
+        "coordinates": [-79.20281619541797, 21.880306637999475],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Swaziland",
+        "population": 1160088,
+        "iso3": "SWZ",
+        "NAME_ES": "Swazilandia",
+        "NAME_PT": "Swazilândia",
+        "NAME_FR": "Swaziland",
+        "NAME_ID": "Swaziland",
+        "NAME_ZH": "斯威士兰"
+      },
+      "geometry": {
+        "coordinates": [31.393247809017335, -26.51619831312395],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Kyrgyzstan",
+        "population": 6524191,
+        "iso3": "KGZ",
+        "NAME_ES": "Kirguistán",
+        "NAME_PT": "Kirguizistão",
+        "NAME_FR": "Kirghizistan",
+        "NAME_ID": "Kirgizstan",
+        "NAME_ZH": "吉尔吉斯斯坦"
+      },
+      "geometry": {
+        "coordinates": [74.62212759847331, 41.49152315346927],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Kenya",
+        "population": 54868886,
+        "iso3": "KEN",
+        "NAME_ES": "Kenia",
+        "NAME_PT": "Quénia",
+        "NAME_FR": "Kenya",
+        "NAME_ID": "Kenya",
+        "NAME_ZH": "肯尼亚"
+      },
+      "geometry": {
+        "coordinates": [37.4590427458805, 0.4259954510544208],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Suriname",
+        "population": 586634,
+        "iso3": "SUR",
+        "NAME_ES": "Surinam",
+        "NAME_PT": "Suriname",
+        "NAME_FR": "Suriname",
+        "NAME_ID": "Suriname",
+        "NAME_ZH": "苏里南"
+      },
+      "geometry": {
+        "coordinates": [-56.032115412162305, 3.7627725963441208],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Kiribati",
+        "population": 119446,
+        "iso3": "KIR",
+        "NAME_ES": "Kiribati",
+        "NAME_PT": "Kiribati",
+        "NAME_FR": "Kiribati",
+        "NAME_ID": "Kiribati",
+        "NAME_ZH": "基里巴斯"
+      },
+      "geometry": { "coordinates": [172.58, 1.19], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Cambodia",
+        "population": 16718971,
+        "iso3": "KHM",
+        "NAME_ES": "Camboya",
+        "NAME_PT": "Camboja",
+        "NAME_FR": "Cambodge",
+        "NAME_ID": "Kamboja",
+        "NAME_ZH": "柬埔寨"
+      },
+      "geometry": {
+        "coordinates": [104.91953089453044, 12.443159713903329],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Saint Kitts and Nevis",
+        "population": 53192,
+        "iso3": "KNA",
+        "NAME_ES": "San Cristóbal y Nieves",
+        "NAME_PT": "São Cristóvão e Névis",
+        "NAME_FR": "Saint Kitts et Nevis",
+        "NAME_ID": "Saint Kitts dan Nevis",
+        "NAME_ZH": "圣基茨和尼维斯"
+      },
+      "geometry": { "coordinates": [-62.43, 17.18], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Comoros",
+        "population": 869595,
+        "iso3": "COM",
+        "NAME_ES": "Comoras",
+        "NAME_PT": "Comores",
+        "NAME_FR": "Comores",
+        "NAME_ID": "Komora",
+        "NAME_ZH": "科摩罗"
+      },
+      "geometry": {
+        "coordinates": [43.68534613904545, -11.91596309217118],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Sao Tome and Principe",
+        "population": 219161,
+        "iso3": "STP",
+        "NAME_ES": "Santo Tomé y Príncipe",
+        "NAME_PT": "São Tomé e Príncipe",
+        "NAME_FR": "Sao Tomé et Principe",
+        "NAME_ID": "Sao Tome dan Prinsip",
+        "NAME_ZH": "圣多美和普林西比"
+      },
+      "geometry": { "coordinates": [6.39, 0.12], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Slovakia",
+        "population": 5459642,
+        "iso3": "SVK",
+        "NAME_ES": "Eslovaquia",
+        "NAME_PT": "Eslováquia",
+        "NAME_FR": "Slovaquie",
+        "NAME_ID": "Slovakia",
+        "NAME_ZH": "斯洛伐克"
+      },
+      "geometry": {
+        "coordinates": [19.543092346254987, 48.72015791702211],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Korea South",
+        "population": 51269185,
+        "iso3": "KOR",
+        "NAME_ES": "Corea del Sur",
+        "NAME_PT": "Coreia do Sul",
+        "NAME_FR": "Corée du Sud",
+        "NAME_ID": "Korea Selatan",
+        "NAME_ZH": "韩国"
+      },
+      "geometry": {
+        "coordinates": [128.00249739969277, 36.50539337846122],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Slovenia",
+        "population": 2078932,
+        "iso3": "SVN",
+        "NAME_ES": "Eslovenia",
+        "NAME_PT": "Eslovénia",
+        "NAME_FR": "Slovénie",
+        "NAME_ID": "Slovenia",
+        "NAME_ZH": "斯洛文尼亚"
+      },
+      "geometry": {
+        "coordinates": [14.685380088270362, 46.16777051346989],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Korea North",
+        "population": 25084385,
+        "iso3": "PRK",
+        "NAME_ES": "Corea del Norte",
+        "NAME_PT": "Coreia do Norte",
+        "NAME_FR": "Corée du Nord",
+        "NAME_ID": "Korea Utara",
+        "NAME_ZH": "朝鲜"
+      },
+      "geometry": {
+        "coordinates": [127.07980469195401, 40.225773217165546],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Kuwait",
+        "population": 4270000,
+        "iso3": "KWT",
+        "NAME_ES": "Kuwait",
+        "NAME_PT": "Kuwait",
+        "NAME_FR": "Koweït",
+        "NAME_ID": "Kuwait",
+        "NAME_ZH": "科威特"
+      },
+      "geometry": { "coordinates": [47.58, 29.22], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Senegal",
+        "population": 16743930,
+        "iso3": "SEN",
+        "NAME_ES": "Senegal",
+        "NAME_PT": "Senegal",
+        "NAME_FR": "Sénégal",
+        "NAME_ID": "Senegal",
+        "NAME_ZH": "塞内加尔"
+      },
+      "geometry": {
+        "coordinates": [-14.79091995441048, 15.228538725704277],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "San Marino",
+        "population": 33938,
+        "iso3": "SMR",
+        "NAME_ES": "San Marino",
+        "NAME_PT": "San Marino",
+        "NAME_FR": "Saint-Marin",
+        "NAME_ID": "San Marino",
+        "NAME_ZH": "圣马力诺"
+      },
+      "geometry": { "coordinates": [12.25, 43.56], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Sierra Leone",
+        "population": 7976985,
+        "iso3": "SLE",
+        "NAME_ES": "Sierra Leona",
+        "NAME_PT": "Serra Leoa",
+        "NAME_FR": "Sierra Leone",
+        "NAME_ID": "Sierra Leone",
+        "NAME_ZH": "塞拉利昂"
+      },
+      "geometry": {
+        "coordinates": [-11.806805646169972, 8.573961646845166],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Seychelles",
+        "population": 98462,
+        "iso3": "SYC",
+        "NAME_ES": "Seychelles",
+        "NAME_PT": "Seicheles",
+        "NAME_FR": "Seychelles",
+        "NAME_ID": "Seychelles",
+        "NAME_ZH": "塞舌尔"
+      },
+      "geometry": { "coordinates": [55.27, -4.38], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Kazakhstan",
+        "population": 18776707,
+        "iso3": "KAZ",
+        "NAME_ES": "Kazakhstan",
+        "NAME_PT": "Cazaquistão",
+        "NAME_FR": "Kazakhstan",
+        "NAME_ID": "Kazakhstan",
+        "NAME_ZH": "哈萨克斯坦"
+      },
+      "geometry": {
+        "coordinates": [67.52861221034206, 48.30949181480171],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Cayman Islands",
+        "population": 65720,
+        "iso3": "CYM",
+        "NAME_ES": "Islas Caimán",
+        "NAME_PT": "Ilhas Caimã",
+        "NAME_FR": "Îles Caïmans",
+        "NAME_ID": "Kepulauan Cayman",
+        "NAME_ZH": "开曼群岛"
+      },
+      "geometry": { "coordinates": [-81.23, 19.18], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Singapore",
+        "population": 5703565,
+        "iso3": "SGP",
+        "NAME_ES": "Singapur",
+        "NAME_PT": "Singapura",
+        "NAME_FR": "Singapour",
+        "NAME_ID": "Singapura",
+        "NAME_ZH": "新加坡"
+      },
+      "geometry": {
+        "coordinates": [103.8206190915463, 1.3531420786096202],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Sweden",
+        "population": 10352000,
+        "iso3": "SWE",
+        "NAME_ES": "Suecia",
+        "NAME_PT": "Suécia",
+        "NAME_FR": "Suède",
+        "NAME_ID": "Sweden",
+        "NAME_ZH": "瑞典"
+      },
+      "geometry": {
+        "coordinates": [17.499388064294294, 64.92984845532366],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Sudan",
+        "population": 43852959,
+        "iso3": "SDN",
+        "NAME_ES": "Sudán",
+        "NAME_PT": "Sudão",
+        "NAME_FR": "Soudan",
+        "NAME_ID": "Sudan",
+        "NAME_ZH": "苏丹"
+      },
+      "geometry": {
+        "coordinates": [30.267909479312443, 13.814145269471311],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Dominican Republic",
+        "population": 10847904,
+        "iso3": "DOM",
+        "NAME_ES": "República Dominicana",
+        "NAME_PT": "República Dominicana",
+        "NAME_FR": "République dominicaine",
+        "NAME_ID": "Republik Dominika",
+        "NAME_ZH": "多米尼加共和国"
+      },
+      "geometry": { "coordinates": [-69.54, 18.28], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Dominica",
+        "population": 71991,
+        "iso3": "DMA",
+        "NAME_ES": "Dominica",
+        "NAME_PT": "Dominica",
+        "NAME_FR": "Dominique",
+        "NAME_ID": "Dominica",
+        "NAME_ZH": "多米尼加"
+      },
+      "geometry": { "coordinates": [-61.24, 15.18], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Djibouti",
+        "population": 988000,
+        "iso3": "DJI",
+        "NAME_ES": "Yibuti",
+        "NAME_PT": "Djibuti",
+        "NAME_FR": "Djibouti",
+        "NAME_ID": "Yibuti",
+        "NAME_ZH": "吉布提"
+      },
+      "geometry": { "coordinates": [43.09, 11.35], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Denmark",
+        "population": 5792203,
+        "iso3": "DNK",
+        "NAME_ES": "Dinamarca",
+        "NAME_PT": "Dinamarca",
+        "NAME_FR": "Danemark",
+        "NAME_ID": "Denmark",
+        "NAME_ZH": "丹麦"
+      },
+      "geometry": {
+        "coordinates": [10.167095475148733, 55.92324843816328],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "British Virgin Islands",
+        "population": 30237,
+        "iso3": "VGB",
+        "NAME_ES": "Islas Vírgenes Británicas",
+        "NAME_PT": "Ilhas Virgens Britânicas",
+        "NAME_FR": "Îles Vierges britanniques",
+        "NAME_ID": "Kepulauan Virgin Britania",
+        "NAME_ZH": "英属维尔京群岛"
+      },
+      "geometry": { "coordinates": [-64.37, 18.27], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Germany",
+        "population": 83783945,
+        "iso3": "DEU",
+        "NAME_ES": "Alemania",
+        "NAME_PT": "Alemanha",
+        "NAME_FR": "Allemagne",
+        "NAME_ID": "Jerman",
+        "NAME_ZH": "德国"
+      },
+      "geometry": {
+        "coordinates": [10.078552067457016, 51.11314108092955],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Yemen",
+        "population": 34955412,
+        "iso3": "YEM",
+        "NAME_ES": "Yemen",
+        "NAME_PT": "Iémen",
+        "NAME_FR": "Yémen",
+        "NAME_ID": "Yemen",
+        "NAME_ZH": "也门"
+      },
+      "geometry": {
+        "coordinates": [47.59715338227516, 15.705044994287242],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Algeria",
+        "population": 43851044,
+        "iso3": "DZA",
+        "NAME_ES": "Argelia",
+        "NAME_PT": "Argélia",
+        "NAME_FR": "Algérie",
+        "NAME_ID": "Algeria",
+        "NAME_ZH": "阿尔及利亚"
+      },
+      "geometry": {
+        "coordinates": [2.866308272921883, 27.92255898497632],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "United States",
+        "population": 331893745,
+        "iso3": "USA",
+        "iso2": "US",
+        "NAME_ES": "Estados Unidos",
+        "NAME_PT": "Estados Unidos",
+        "NAME_FR": "États-Unis",
+        "NAME_ID": "Amerika Serikat",
+        "NAME_ZH": "美国"
+      },
+      "geometry": { "coordinates": [-97.6, 39.36], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Uruguay",
+        "population": 34737278,
+        "iso3": "URY",
+        "iso2": "UY",
+        "NAME_ES": "Uruguay",
+        "NAME_PT": "Uruguai",
+        "NAME_FR": "Uruguay",
+        "NAME_ID": "Uruguay",
+        "NAME_ZH": "乌拉圭"
+      },
+      "geometry": {
+        "coordinates": [-56.11, -32.85274557780538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Mayotte",
+        "population": 272813,
+        "iso3": "MYT",
+        "iso2": "YT",
+        "NAME_ES": "Mayotte",
+        "NAME_PT": "Mayotte",
+        "NAME_FR": "Mayotte",
+        "NAME_ID": "Mayotte",
+        "NAME_ZH": "马约特"
+      },
+      "geometry": {
+        "coordinates": [45.13649221753992, -12.827414775835912],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Lebanon",
+        "population": 6825442,
+        "iso3": "LBN",
+        "iso2": "LB",
+        "NAME_ES": "Líbano",
+        "NAME_PT": "Líbano",
+        "NAME_FR": "Liban",
+        "NAME_ID": "Lebanon",
+        "NAME_ZH": "黎巴嫩"
+      },
+      "geometry": {
+        "coordinates": [35.87594758709089, 33.90630315886191],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Saint Lucia",
+        "population": 183629,
+        "iso3": "LCA",
+        "iso2": "LC",
+        "NAME_ES": "Santa Lucía",
+        "NAME_PT": "Santa Lúcia",
+        "NAME_FR": "Sainte-Lucie",
+        "NAME_ID": "Saint Lucia",
+        "NAME_ZH": "圣卢西亚"
+      },
+      "geometry": { "coordinates": [-61, 14.01], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Laos",
+        "population": 7275556,
+        "iso3": "LAO",
+        "iso2": "LA",
+        "NAME_ES": "Laos",
+        "NAME_PT": "Laos",
+        "NAME_FR": "Laos",
+        "NAME_ID": "Laos",
+        "NAME_ZH": "老挝"
+      },
+      "geometry": { "coordinates": [102.36, 17.58], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Tuvalu",
+        "population": 11792,
+        "iso3": "TUV",
+        "iso2": "TV",
+        "NAME_ES": "Tuvalu",
+        "NAME_PT": "Tuvalu",
+        "NAME_FR": "Tuvalu",
+        "NAME_ID": "Tuvalu",
+        "NAME_ZH": "图瓦卢"
+      },
+      "geometry": { "coordinates": [179.12, -8.3], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Taiwan",
+        "population": 23816775,
+        "iso3": "TWN",
+        "iso2": "TW",
+        "NAME_ES": "Taiwán",
+        "NAME_PT": "Taiwan",
+        "NAME_FR": "Taïwan",
+        "NAME_ID": "Taiwan",
+        "NAME_ZH": "台湾"
+      },
+      "geometry": {
+        "coordinates": [120.92064781124616, 23.720741972959388],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Trinidad and Tobago",
+        "population": 1400000,
+        "iso3": "TTO",
+        "iso2": "TT",
+        "NAME_ES": "Trinidad y Tobago",
+        "NAME_PT": "Trinidad e Tobago",
+        "NAME_FR": "Trinité-et-Tobago",
+        "NAME_ID": "Trinidad dan Tobago",
+        "NAME_ZH": "特立尼达和多巴哥"
+      },
+      "geometry": { "coordinates": [-61.31, 10.39], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Turkey",
+        "population": 85561562,
+        "iso3": "TUR",
+        "iso2": "TR",
+        "NAME_ES": "Turquía",
+        "NAME_PT": "Turquia",
+        "NAME_FR": "Turquie",
+        "NAME_ID": "Turki",
+        "NAME_ZH": "土耳其"
+      },
+      "geometry": {
+        "coordinates": [35.158211527965044, 39.05725665044494],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Sri Lanka",
+        "population": 21919000,
+        "iso3": "LKA",
+        "iso2": "LK",
+        "NAME_ES": "Sri Lanka",
+        "NAME_PT": "Sri Lanka",
+        "NAME_FR": "Sri Lanka",
+        "NAME_ID": "Sri Lanka",
+        "NAME_ZH": "斯里兰卡"
+      },
+      "geometry": { "coordinates": [79.51, 6.56], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Latvia",
+        "population": 1926559,
+        "iso3": "LVA",
+        "iso2": "LV",
+        "NAME_ES": "Letonia",
+        "NAME_PT": "Letónia",
+        "NAME_FR": "Lettonie",
+        "NAME_ID": "Letonia",
+        "NAME_ZH": "拉脱维亚"
+      },
+      "geometry": {
+        "coordinates": [24.873604968082983, 56.91939799790632],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Tonga",
+        "population": 105697,
+        "iso3": "TON",
+        "iso2": "TO",
+        "NAME_ES": "Tonga",
+        "NAME_PT": "Tonga",
+        "NAME_FR": "Tonga",
+        "NAME_ID": "Tonga",
+        "NAME_ZH": "汤加"
+      },
+      "geometry": { "coordinates": [-175.12, -21.08], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Lithuania",
+        "population": 2722291,
+        "iso3": "LTU",
+        "iso2": "LT",
+        "NAME_ES": "Lituania",
+        "NAME_PT": "Lituânia",
+        "NAME_FR": "Lituanie",
+        "NAME_ID": "Lituania",
+        "NAME_ZH": "立陶宛"
+      },
+      "geometry": {
+        "coordinates": [23.91653135430676, 55.50696818373771],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Luxembourg",
+        "population": 625978,
+        "iso3": "LUX",
+        "iso2": "LU",
+        "NAME_ES": "Luxemburgo",
+        "NAME_PT": "Luxemburgo",
+        "NAME_FR": "Luxembourg",
+        "NAME_ID": "Luxembourg",
+        "NAME_ZH": "卢森堡"
+      },
+      "geometry": {
+        "coordinates": [6.106389774157243, 49.7139963895812],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Liberia",
+        "population": 5057677,
+        "iso3": "LBR",
+        "iso2": "LR",
+        "NAME_ES": "Liberia",
+        "NAME_PT": "Libéria",
+        "NAME_FR": "Libéria",
+        "NAME_ID": "Liberia",
+        "NAME_ZH": "利比里亚"
+      },
+      "geometry": {
+        "coordinates": [-9.28912665536792, 6.441511490883748],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Thailand",
+        "population": 69950850,
+        "iso3": "THA",
+        "iso2": "TH",
+        "NAME_ES": "Tailandia",
+        "NAME_PT": "Tailândia",
+        "NAME_FR": "Thaïlande",
+        "NAME_ID": "Thailandia",
+        "NAME_ZH": "泰国"
+      },
+      "geometry": {
+        "coordinates": [100.96378542878529, 15.130056498943883],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Togo",
+        "population": 8278737,
+        "iso3": "TGO",
+        "iso2": "TG",
+        "NAME_ES": "Togo",
+        "NAME_PT": "Togo",
+        "NAME_FR": "Togo",
+        "NAME_ID": "Togo",
+        "NAME_ZH": "多哥"
+      },
+      "geometry": {
+        "coordinates": [0.981132178763322, 8.737054700561218],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Chad",
+        "population": 16425859,
+        "iso3": "TCD",
+        "iso2": "TD",
+        "NAME_ES": "Chad",
+        "NAME_PT": "Chade",
+        "NAME_FR": "Tchad",
+        "NAME_ID": "Chad",
+        "NAME_ZH": "乍得"
+      },
+      "geometry": {
+        "coordinates": [18.611158411201718, 15.274889047125937],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Turks and Caicos Islands",
+        "population": 38718,
+        "iso3": "TCA",
+        "iso2": "TC",
+        "NAME_ES": "Islas Turcas y Caicos",
+        "NAME_PT": "Ilhas Turcas e Caicos",
+        "NAME_FR": "Turcs et Caïques",
+        "NAME_ID": "Kepulauan Turks dan Caicos",
+        "NAME_ZH": "特克斯和凯科斯群岛"
+      },
+      "geometry": { "coordinates": [-71.08, 21.28], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Libya",
+        "population": 6871287,
+        "iso3": "LBY",
+        "iso2": "LY",
+        "NAME_ES": "Libia",
+        "NAME_PT": "Líbia",
+        "NAME_FR": "Libye",
+        "NAME_ID": "Libya",
+        "NAME_ZH": "利比亚"
+      },
+      "geometry": {
+        "coordinates": [18.130435100140353, 27.013723774802315],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Saint Vincent and the Grenadines",
+        "population": 110940,
+        "iso3": "VCT",
+        "iso2": "VC",
+        "NAME_ES": "San Vicente y las Granadinas",
+        "NAME_PT": "São Vicente e Granadinas",
+        "NAME_FR": "Saint-Vincent-et-les Grenadines",
+        "NAME_ID": "Saint Vincent dan Grenadines",
+        "NAME_ZH": "圣文森特和格林纳丁斯"
+      },
+      "geometry": { "coordinates": [-61.14, 13.09], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "United Arab Emirates",
+        "population": 9890400,
+        "iso3": "ARE",
+        "iso2": "AE",
+        "NAME_ES": "Emiratos Árabes Unidos",
+        "NAME_PT": "Emirados Árabes Unidos",
+        "NAME_FR": "Émirats arabes unis",
+        "NAME_ID": "Uni Emirat Arab",
+        "NAME_ZH": "阿拉伯联合酋长国"
+      },
+      "geometry": { "coordinates": [54.22, 24.28], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Andorra",
+        "population": 77265,
+        "iso3": "AND",
+        "iso2": "AD",
+        "NAME_ES": "Andorra",
+        "NAME_PT": "Andorra",
+        "NAME_FR": "Andorre",
+        "NAME_ID": "Andorra",
+        "NAME_ZH": "安道尔"
+      },
+      "geometry": { "coordinates": [1.31, 42.3], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Antigua and Barbuda",
+        "population": 97928,
+        "iso3": "ATG",
+        "iso2": "AG",
+        "NAME_ES": "Antigua y Barbuda",
+        "NAME_PT": "Antígua e Barbuda",
+        "NAME_FR": "Antigua-et-Barbuda",
+        "NAME_ID": "Antigua dan Barbuda",
+        "NAME_ZH": "安提瓜和巴布达"
+      },
+      "geometry": { "coordinates": [-61.51, 17.07], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Afghanistan",
+        "population": 38928346,
+        "iso3": "AFG",
+        "iso2": "AF",
+        "NAME_ES": "Afganistán",
+        "NAME_PT": "Afeganistão",
+        "NAME_FR": "Afghanistan",
+        "NAME_ID": "Afghanistan",
+        "NAME_ZH": "阿富汗"
+      },
+      "geometry": {
+        "coordinates": [65.80385416111515, 33.79019820992109],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Anguilla",
+        "population": 15002,
+        "iso3": "AIA",
+        "iso2": "AI",
+        "NAME_ES": "Islas Vírgenes Británicas",
+        "NAME_PT": "Ilhas Virgens Britânicas",
+        "NAME_FR": "Îles Vierges britanniques",
+        "NAME_ID": "Kepulauan Virgin Britania",
+        "NAME_ZH": "英属维尔京群岛"
+      },
+      "geometry": { "coordinates": [-63.03, 18.13], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Virgin Islands",
+        "population": 108708,
+        "iso3": "VIR",
+        "iso2": "VI",
+        "NAME_ES": "Islas Vírgenes de los Estados Unidos",
+        "NAME_PT": "Ilhas Virgens dos Estados Unidos",
+        "NAME_FR": "Îles Vierges des États-Unis",
+        "NAME_ID": "Kepulauan Virgin Amerika Serikat",
+        "NAME_ZH": "美属维尔京群岛"
+      },
+      "geometry": { "coordinates": [-64.56, 18.21], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Iceland",
+        "population": 366425,
+        "iso3": "ISL",
+        "iso2": "IS",
+        "NAME_ES": "Islandia",
+        "NAME_PT": "Islândia",
+        "NAME_FR": "Islande",
+        "NAME_ID": "Islandia",
+        "NAME_ZH": "冰岛"
+      },
+      "geometry": { "coordinates": [-21.57, 64.09], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Armenia",
+        "population": 2963234,
+        "iso3": "ARM",
+        "iso2": "AM",
+        "NAME_ES": "Armenia",
+        "NAME_PT": "Armênia",
+        "NAME_FR": "Arménie",
+        "NAME_ID": "Armenia",
+        "NAME_ZH": "亚美尼亚"
+      },
+      "geometry": {
+        "coordinates": [44.52876138523182, 40.59982586548566],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Angola",
+        "population": 32866268,
+        "iso3": "AGO",
+        "iso2": "AO",
+        "NAME_ES": "Angola",
+        "NAME_PT": "Angola",
+        "NAME_FR": "Angola",
+        "NAME_ID": "Angola",
+        "NAME_ZH": "安哥拉"
+      },
+      "geometry": {
+        "coordinates": [17.899440138627867, -12.040971183464777],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Netherlands Antilles",
+        "population": 217000,
+        "iso3": "ANT",
+        "iso2": "AN",
+        "NAME_ES": "Antillas Neerlandesas",
+        "NAME_PT": "Antilhas Holandesas",
+        "NAME_FR": "Antilles néerlandaises",
+        "NAME_ID": "Kepulauan Antillen Belanda",
+        "NAME_ZH": "荷属安的列斯群岛"
+      },
+      "geometry": { "coordinates": [-68.56, 12.06], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "American Samoa",
+        "population": 55197,
+        "iso3": "ASM",
+        "iso2": "AS",
+        "NAME_ES": "Samoa Americana",
+        "NAME_PT": "Samoa Americana",
+        "NAME_FR": "Samoa américaines",
+        "NAME_ID": "Amerika Samoa",
+        "NAME_ZH": "美属萨摩亚"
+      },
+      "geometry": { "coordinates": [-170.42, -14.16], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Argentina",
+        "population": 45373774,
+        "iso3": "ARG",
+        "iso2": "AR",
+        "NAME_ES": "Argentina",
+        "NAME_PT": "Argentina",
+        "NAME_FR": "Argentine",
+        "NAME_ID": "Argentina",
+        "NAME_ZH": "阿根廷"
+      },
+      "geometry": {
+        "coordinates": [-64.05912587661777, -36.37997994272969],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Australia",
+        "population": 25499884,
+        "iso3": "AUS",
+        "iso2": "AU",
+        "NAME_ES": "Australia",
+        "NAME_PT": "Austrália",
+        "NAME_FR": "Australie",
+        "NAME_ID": "Australia",
+        "NAME_ZH": "澳大利亚"
+      },
+      "geometry": { "coordinates": [134.55476970049915, -25.79861752451785], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Austria",
+        "population": 8917205,
+        "iso3": "AUT",
+        "iso2": "AT",
+        "NAME_ES": "Austria",
+        "NAME_PT": "Áustria",
+        "NAME_FR": "Autriche",
+        "NAME_ID": "Austria",
+        "NAME_ZH": "奥地利"
+      },
+      "geometry": {
+        "coordinates": [14.2880040412237, 47.581515944827025],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Aruba",
+        "population": 106766,
+        "iso3": "ABW",
+        "iso2": "AW",
+        "NAME_ES": "Aruba",
+        "NAME_PT": "Aruba",
+        "NAME_FR": "Aruba",
+        "NAME_ID": "Aruba",
+        "NAME_ZH": "阿鲁巴"
+      },
+      "geometry": { "coordinates": [-70.02, 12.31], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "India",
+        "population": 1380003000,
+        "iso3": "IND",
+        "iso2": "IN",
+        "NAME_ES": "India",
+        "NAME_PT": "Índia",
+        "NAME_FR": "Inde",
+        "NAME_ID": "India",
+        "NAME_ZH": "印度"
+      },
+      "geometry": {
+        "coordinates": [78.54506286158846, 22.186719532851413],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Tanzania",
+        "population": 61479987,
+        "iso3": "TZA",
+        "iso2": "TZ",
+        "NAME_ES": "Tanzania",
+        "NAME_PT": "Tanzânia",
+        "NAME_FR": "Tanzanie",
+        "NAME_ID": "Tanzania",
+        "NAME_ZH": "坦桑尼亚"
+      },
+      "geometry": {
+        "coordinates": [34.26778375613638, -6.366739254982587],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Azerbaijan",
+        "population": 10139177,
+        "iso3": "AZE",
+        "iso2": "AZ",
+        "NAME_ES": "Azerbaiyán",
+        "NAME_PT": "Azerbaijão",
+        "NAME_FR": "Azerbaïdjan",
+        "NAME_ID": "Azerbaijan",
+        "NAME_ZH": "阿塞拜疆"
+      },
+      "geometry": {
+        "coordinates": [47.72041043617681, 40.39272011049463],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Ireland",
+        "population": 4937796,
+        "iso3": "IRL",
+        "iso2": "IE",
+        "NAME_ES": "Irlanda",
+        "NAME_PT": "Irlanda",
+        "NAME_FR": "Irlande",
+        "NAME_ID": "Irlandia",
+        "NAME_ZH": "爱尔兰"
+      },
+      "geometry": {
+        "coordinates": [-7.750530169261977, 53.27891760016021],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Indonesia",
+        "population": 276361886,
+        "iso3": "IDN",
+        "iso2": "ID",
+        "NAME_ES": "Indonesia",
+        "NAME_PT": "Indonésia",
+        "NAME_FR": "Indonésie",
+        "NAME_ID": "Indonesia",
+        "NAME_ZH": "印度尼西亚"
+      },
+      "geometry": {
+        "coordinates": [117.43448277699802, -2.2913965400240013],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Ukraine",
+        "population": 43733762,
+        "iso3": "UKR",
+        "iso2": "UA",
+        "NAME_ES": "Ucrania",
+        "NAME_PT": "Ucrânia",
+        "NAME_FR": "Ukraine",
+        "NAME_ID": "Ukraine",
+        "NAME_ZH": "乌克兰"
+      },
+      "geometry": {
+        "coordinates": [31.402979097129613, 49.301003105133645],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SCALERANK": -1,
+        "NAME_EN": "Qatar",
+        "population": 2881060,
+        "iso3": "QAT",
+        "iso2": "QA",
+        "NAME_ES": "Qatar",
+        "NAME_PT": "Catar",
+        "NAME_FR": "Qatar",
+        "NAME_ID": "Qatar",
+        "NAME_ZH": "卡塔尔"
+      },
+      "geometry": { "coordinates": [51.32, 25.17], "type": "Point" }
+    }
+  ]
+}
