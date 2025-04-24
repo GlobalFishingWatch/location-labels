@@ -1,0 +1,2434 @@
+{
+  "type": "FeatureCollection",
+  "name": "seas",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Rio de La Plata",
+        "NAME_ES": "Río de la Plata",
+        "NAME_PT": "Rio de La Plata",
+        "NAME_FR": "Río de la Plata",
+        "NAME_ID": "Rio de La Plata",
+        "NAME_ZH": "拉普拉塔河",
+        "ID": "33",
+        "Longitude": -56.842477986669998,
+        "Latitude": -35.113337881230002,
+        "min_X": -59.765656113239999,
+        "min_Y": -36.358856439969998,
+        "max_X": -54.943023652720001,
+        "max_Y": -31.523437499740002,
+        "area": 31797,
+        "MRGID": 4325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.768177249008914, -33.94109606777927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Bass Strait",
+        "NAME_ES": "Estrecho de Bass",
+        "NAME_PT": "Estreito de Bass",
+        "NAME_FR": "Détroit de Bass",
+        "NAME_ID": "Selat Bass",
+        "NAME_ZH": "巴斯海峡",
+        "ID": "62A",
+        "Longitude": 146.42429096113,
+        "Latitude": -39.450519805490003,
+        "min_X": 143.53250818353999,
+        "min_Y": -41.440274000039999,
+        "max_X": 149.90946832485,
+        "max_Y": -37.46079254144,
+        "area": 112699,
+        "MRGID": 4366
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [145.526320409583604, -39.450445353919939]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Great Australian Bight",
+        "NAME_ES": "Gran Bajo Austral",
+        "NAME_PT": "Grande Baía Austral",
+        "NAME_FR": "Grande Baie Austral",
+        "NAME_ID": "Pantai Besar Australia Selatan",
+        "NAME_ZH": "大澳大利亚湾",
+        "ID": "62",
+        "Longitude": 132.7165581317,
+        "Latitude": -36.725915765970001,
+        "min_X": 117.6141982382,
+        "min_Y": -43.566016471349997,
+        "max_X": 146.23115575343999,
+        "max_Y": -31.463669419009999,
+        "area": 1326209,
+        "MRGID": 4276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [132.873191274741345, -37.516189635093546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Tasman Sea",
+        "NAME_ES": "Mar de Tasman",
+        "NAME_PT": "Mar de Tasman",
+        "NAME_FR": "Mer de Tasman",
+        "NAME_ID": "Laut Tasman",
+        "NAME_ZH": "塔斯曼海",
+        "ID": "63",
+        "Longitude": 160.71079785091999,
+        "Latitude": -39.701055834350001,
+        "min_X": 146.87261490500001,
+        "min_Y": -50.866916067719998,
+        "max_X": 175.28698494732001,
+        "max_Y": -30.0,
+        "area": 3344624,
+        "MRGID": 4365
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [161.859471358133533, -40.43426829614485]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mozambique Channel",
+        "NAME_ES": "Canal de Mozambique",
+        "NAME_PT": "Canal de Moçambique",
+        "NAME_FR": "Canal de Mozambique",
+        "NAME_ID": "Kanal Mozambik",
+        "NAME_ZH": "莫桑比克海峡",
+        "ID": "45A",
+        "Longitude": 40.877244466240001,
+        "Latitude": -19.304095033189999,
+        "min_X": 32.430623054309997,
+        "min_Y": -26.842402329430001,
+        "max_X": 49.241981885869997,
+        "max_Y": -10.4988721851,
+        "area": 1394283,
+        "MRGID": 4261
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.308207810485094, -18.670751392562693]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Savu Sea",
+        "NAME_ES": "Mar de Savu",
+        "NAME_PT": "Mar de Savu",
+        "NAME_FR": "Mer de Savu",
+        "NAME_ID": "Laut Savu",
+        "NAME_ZH": "萨武海",
+        "ID": "48o",
+        "Longitude": 122.02723655193,
+        "Latitude": -9.4801505156200001,
+        "min_X": 118.50227187567,
+        "min_Y": -10.922590136729999,
+        "max_X": 125.00513064876,
+        "max_Y": -8.2139811516099996,
+        "area": 106234,
+        "MRGID": 4343
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.981599657665228, -9.568259775618053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Timor Sea",
+        "NAME_ES": "Mar de Timor",
+        "NAME_PT": "Mar de Timor",
+        "NAME_FR": "Mer de Timor",
+        "NAME_ID": "Laut Timor",
+        "NAME_ZH": "帝汶海",
+        "ID": "48i",
+        "Longitude": 128.00156683326,
+        "Latitude": -11.20554251696,
+        "min_X": 122.85232097697001,
+        "min_Y": -15.796011566780001,
+        "max_X": 132.93133914459,
+        "max_Y": -8.1828402281900008,
+        "area": 434186,
+        "MRGID": 4344
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.503074461749662, -11.997026389384182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Bali Sea",
+        "NAME_ES": "Mar de Bali",
+        "NAME_PT": "Mar de Bali",
+        "NAME_FR": "Mer de Bali",
+        "NAME_ID": "Laut Bali",
+        "NAME_ZH": "巴厘海",
+        "ID": "48l",
+        "Longitude": 115.81207452734,
+        "Latitude": -7.9326611756999998,
+        "min_X": 114.34016525782,
+        "min_Y": -8.9986119269000007,
+        "max_X": 117.16574347039,
+        "max_Y": -7.0130896569600001,
+        "area": 39916,
+        "MRGID": 4340
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.790855950194214, -8.005733370598499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Coral Sea",
+        "NAME_ES": "Mar de Coral",
+        "NAME_PT": "Mar de Coral",
+        "NAME_FR": "Mer de Coral",
+        "NAME_ID": "Laut Coral",
+        "NAME_ZH": "珊瑚海",
+        "ID": "64",
+        "Longitude": 156.76782488293,
+        "Latitude": -18.224330548409998,
+        "min_X": 141.02158935467,
+        "min_Y": -30.0000000002,
+        "max_X": 169.86540173121,
+        "max_Y": -6.7928830385200003,
+        "area": 4125541,
+        "MRGID": 4364
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [154.657162984256047, -18.396421640746041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Flores Sea",
+        "NAME_ES": "Mar de Flores",
+        "NAME_PT": "Mar de Flores",
+        "NAME_FR": "Mer de Flores",
+        "NAME_ID": "Laut Flores",
+        "NAME_ZH": "弗洛雷斯海",
+        "ID": "48j",
+        "Longitude": 119.83979646101,
+        "Latitude": -7.5123103074499999,
+        "min_X": 117.13333333333,
+        "min_Y": -8.7439668175099996,
+        "max_X": 122.93890571583,
+        "max_Y": -5.5076230760399998,
+        "area": 102816,
+        "MRGID": 4341
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.395386333632501, -7.125850856281879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Solomon Sea",
+        "NAME_ES": "Mar de Salomón",
+        "NAME_PT": "Mar de Salomão",
+        "NAME_FR": "Mer de Salomon",
+        "NAME_ID": "Laut Salomon",
+        "NAME_ZH": "所罗门海",
+        "ID": "65",
+        "Longitude": 154.32237104072999,
+        "Latitude": -8.71719340798,
+        "min_X": 146.94540274174,
+        "min_Y": -11.88246655429,
+        "max_X": 162.34838012156999,
+        "max_Y": -4.8333338214300001,
+        "area": 744334,
+        "MRGID": 4361
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [154.076041371483655, -8.358004450794667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Arafura Sea",
+        "NAME_ES": "Mar de Arafura",
+        "NAME_PT": "Mar de Arafura",
+        "NAME_FR": "Mer de Arafura",
+        "NAME_ID": "Laut Arafura",
+        "NAME_ZH": "阿拉弗拉海",
+        "ID": "48h",
+        "Longitude": 136.95566140055999,
+        "Latitude": -10.518417192359999,
+        "min_X": 130.75881290418999,
+        "min_Y": -18.006752252809999,
+        "max_X": 142.19929325618,
+        "max_Y": -2.9026576283500001,
+        "area": 1025736,
+        "MRGID": 4347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.647093575521183, -10.439332248446387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Gulf of Boni",
+        "NAME_ES": "Golfo de Boni",
+        "NAME_PT": "Golfo de Boni",
+        "NAME_FR": "Golfe de Boni",
+        "NAME_ID": "Golf Boni",
+        "NAME_ZH": "博尼海湾",
+        "ID": "48k",
+        "Longitude": 120.88186976307,
+        "Latitude": -4.2668930093300004,
+        "min_X": 120.18882274627001,
+        "min_Y": -5.6156138343900004,
+        "max_X": 121.86666536318,
+        "max_Y": -2.5804526805500001,
+        "area": 33237,
+        "MRGID": 4350
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.850156929639283, -4.098023593463992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Java Sea",
+        "NAME_ES": "Mar de Java",
+        "NAME_PT": "Mar de Java",
+        "NAME_FR": "Mer de Java",
+        "NAME_ID": "Laut Java",
+        "NAME_ZH": "爪哇海",
+        "ID": "48n",
+        "Longitude": 112.05131157893,
+        "Latitude": -5.1935580969600004,
+        "min_X": 104.52709722516001,
+        "min_Y": -7.8109141119799999,
+        "max_X": 119.48940670446,
+        "max_Y": -1.5493861438600001,
+        "area": 566693,
+        "MRGID": 4338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.665019726629183, -4.680155515614487]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Ceram Sea",
+        "NAME_ES": "Mar de Ceram",
+        "NAME_PT": "Mar de Ceram",
+        "NAME_FR": "Mer de Ceram",
+        "NAME_ID": "Laut Ceram",
+        "NAME_ZH": "塞拉姆海",
+        "ID": "48f",
+        "Longitude": 130.26013582936,
+        "Latitude": -2.7694376730100001,
+        "min_X": 125.9172686256,
+        "min_Y": -5.27390359335,
+        "max_X": 134.03155374491001,
+        "max_Y": -1.1861095431199999,
+        "area": 161489,
+        "MRGID": 4351
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [131.610926327263542, -3.229910671340306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Bismarck Sea",
+        "NAME_ES": "Mar de Bismarck",
+        "NAME_PT": "Mar de Bismarck",
+        "NAME_FR": "Mer de Bismarck",
+        "NAME_ID": "Laut Bismarck",
+        "NAME_ZH": "俾斯麦海",
+        "ID": "66",
+        "Longitude": 147.35120078126999,
+        "Latitude": -3.5502005405900001,
+        "min_X": 141.99288690060999,
+        "min_Y": -5.9620033499699998,
+        "max_X": 152.87647640745999,
+        "max_Y": -1.07457447094,
+        "area": 345053,
+        "MRGID": 4360
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [148.408102121014679, -3.518302142629743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Banda Sea",
+        "NAME_ES": "Mar de Banda",
+        "NAME_PT": "Mar de Banda",
+        "NAME_FR": "Mer de Banda",
+        "NAME_ID": "Laut Banda",
+        "NAME_ZH": "班达海",
+        "ID": "48g",
+        "Longitude": 126.41786957078,
+        "Latitude": -5.4659496481899996,
+        "min_X": 120.46672639518,
+        "min_Y": -8.8645436762499994,
+        "max_X": 133.15140479912,
+        "max_Y": -0.83590805521,
+        "area": 693842,
+        "MRGID": 4349
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.62831362194126, -4.850242674509751]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Gulf of California",
+        "NAME_ES": "Golfo de California",
+        "NAME_PT": "Golfo de California",
+        "NAME_FR": "Golfe de Californie",
+        "NAME_ID": "Golf California",
+        "NAME_ZH": "加利福尼亚湾",
+        "ID": "60",
+        "Longitude": -110.97470757950001,
+        "Latitude": 26.884557826169999,
+        "min_X": -115.03601205391,
+        "min_Y": 22.87876534474,
+        "max_X": -106.78507196859999,
+        "max_Y": 31.949553727720001,
+        "area": 180703,
+        "MRGID": 4314
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.450055699340311, 27.414072036695245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Bay of Fundy",
+        "NAME_ES": "Bahía de Fundy",
+        "NAME_PT": "Baía de Fundy",
+        "NAME_FR": "Baie de Fundy",
+        "NAME_ID": "Pantai Fundy",
+        "NAME_ZH": "芬迪湾",
+        "ID": "25",
+        "Longitude": -65.806015556700004,
+        "Latitude": 44.979852042120001,
+        "min_X": -67.32397222534,
+        "min_Y": 44.088010435560001,
+        "max_X": -63.304708957450003,
+        "max_Y": 46.202591657680003,
+        "area": 16034,
+        "MRGID": 4289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.524106962993898, 45.145319640988717]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Strait of Gibraltar",
+        "NAME_ES": "Estrecho de Gibraltar",
+        "NAME_PT": "Estreito de Gibraltar",
+        "NAME_FR": "Détroit de Gibraltar",
+        "NAME_ID": "Selat Gibraltar",
+        "NAME_ZH": "直布罗陀海峡",
+        "ID": "28a",
+        "Longitude": -5.6852191746700003,
+        "Latitude": 35.979812743689997,
+        "min_X": -6.0325491156500002,
+        "min_Y": 35.775976538389997,
+        "max_X": -5.2787053648000004,
+        "max_Y": 36.186941862479998,
+        "area": 1664,
+        "MRGID": 3346
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.634414336695441, 35.976877920209489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Alboran Sea",
+        "NAME_ES": "Mar de Alborán",
+        "NAME_PT": "Mar de Alborão",
+        "NAME_FR": "Mer d'Alboran",
+        "NAME_ID": "Laut Alboran",
+        "NAME_ZH": "阿尔沃兰海",
+        "ID": "28b",
+        "Longitude": -3.32409719195,
+        "Latitude": 35.912139906539998,
+        "min_X": -5.35376381835,
+        "min_Y": 35.070668458679997,
+        "max_X": -1.18826270086,
+        "max_Y": 36.841517806,
+        "area": 54711,
+        "MRGID": 3324
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.413655929453445, 35.964533811348176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Caribbean Sea",
+        "NAME_ES": "Mar Caribe",
+        "NAME_PT": "Mar Caribe",
+        "NAME_FR": "Mer Caribéen",
+        "NAME_ID": "Laut Karibia",
+        "NAME_ZH": "加勒比海",
+        "ID": "27",
+        "Longitude": -74.678011304189994,
+        "Latitude": 15.31030445709,
+        "min_X": -89.412929773589994,
+        "min_Y": 7.70979893208,
+        "max_X": -59.421600937530002,
+        "max_Y": 22.706524729529999,
+        "area": 2852792,
+        "MRGID": 4287
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.358107355471049, 15.207845449757798]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Gulf of Alaska",
+        "NAME_ES": "Golfo de Alaska",
+        "NAME_PT": "Golfo de Alaska",
+        "NAME_FR": "Golfe d'Alaska",
+        "NAME_ID": "Golf Alaska",
+        "NAME_ZH": "阿拉斯加湾",
+        "ID": "58",
+        "Longitude": -149.05089788877001,
+        "Latitude": 57.907104948259999,
+        "min_X": -163.35763296168,
+        "min_Y": 54.298333168139997,
+        "max_X": -136.61806464176999,
+        "max_Y": 61.549499631000003,
+        "area": 415503,
+        "MRGID": 4312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-145.452653062004515, 57.923991144026161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Bering Sea",
+        "NAME_ES": "Mar de Bering",
+        "NAME_PT": "Mar de Bering",
+        "NAME_FR": "Mer de Bering",
+        "NAME_ID": "Laut Bering",
+        "NAME_ZH": "白令海",
+        "ID": "55",
+        "Longitude": -40.824037303499999,
+        "Latitude": 58.296609158300001,
+        "min_X": -156.22572875,
+        "min_Y": 51.350788608899997,
+        "max_X": 161.82377815300001,
+        "max_Y": 66.56286,
+        "area": 2336912,
+        "MRGID": 4310
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-170.8964552114154, 58.978169798647443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Chukchi Sea",
+        "NAME_ES": "Mar de Chukchi",
+        "NAME_PT": "Mar de Chukchi",
+        "NAME_FR": "Mer de Chukchi",
+        "NAME_ID": "Laut Chukchi",
+        "NAME_ZH": "楚科奇海",
+        "ID": "12",
+        "Longitude": -156.97300103800001,
+        "Latitude": 69.343366640499994,
+        "min_X": -156.479905844,
+        "min_Y": 65.934379165099998,
+        "max_X": 177.47875611399999,
+        "max_Y": 71.711309869100006,
+        "area": 346259,
+        "MRGID": 4257
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-172.683354160724065, 68.822861671778853]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Beaufort Sea",
+        "NAME_ES": "Mar de Beaufort",
+        "NAME_PT": "Mar de Beaufort",
+        "NAME_FR": "Mer de Beaufort",
+        "NAME_ID": "Laut Beaufort",
+        "NAME_ZH": "巴芬海",
+        "ID": "13",
+        "Longitude": -136.82924749188999,
+        "Latitude": 72.139230711010001,
+        "min_X": -156.66489112353,
+        "min_Y": 67.596547246260002,
+        "max_X": -122.65277135381,
+        "max_Y": 76.36291547159,
+        "area": 431132,
+        "MRGID": 4256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-139.224974470354709, 71.980280730619711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Labrador Sea",
+        "NAME_ES": "Mar de Labrador",
+        "NAME_PT": "Mar de Labrador",
+        "NAME_FR": "Mer de Labrador",
+        "NAME_ID": "Laut Labrador",
+        "NAME_ZH": "拉布拉多海",
+        "ID": "15A",
+        "Longitude": -53.477547992129999,
+        "Latitude": 55.87120192359,
+        "min_X": -64.305954217909999,
+        "min_Y": 47.385958551949997,
+        "max_X": -43.674893381540002,
+        "max_Y": 60.398754954179999,
+        "area": 866470,
+        "MRGID": 4291
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-52.517800940312668, 53.892422855030873]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Hudson Strait",
+        "NAME_ES": "Estrecho de Hudson",
+        "NAME_PT": "Estreito de Hudson",
+        "NAME_FR": "Détroit de Hudson",
+        "NAME_ID": "Selat Hudson",
+        "NAME_ZH": "哈德逊海峡",
+        "ID": "16A",
+        "Longitude": -71.450068231649993,
+        "Latitude": 61.870217357949997,
+        "min_X": -80.951564433179996,
+        "min_Y": 55.844772577290001,
+        "max_X": -64.432240798910001,
+        "max_Y": 64.979977846200001,
+        "area": 200039,
+        "MRGID": 4251
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.368414196014527, 60.412369489810231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Davis Strait",
+        "NAME_ES": "Estrecho de Davis",
+        "NAME_PT": "Estreito de Davis",
+        "NAME_FR": "Détroit de Davis",
+        "NAME_ID": "Selat Davis",
+        "NAME_ZH": "戴维斯海峡",
+        "ID": "15",
+        "Longitude": -58.176113308429997,
+        "Latitude": 64.717748183170002,
+        "min_X": -70.14320135106,
+        "min_Y": 59.891541838389998,
+        "max_X": -44.461764932009999,
+        "max_Y": 70.072139143610002,
+        "area": 749737,
+        "MRGID": 4250
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.88219752727256, 64.981923997544499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Baffin Bay",
+        "NAME_ES": "Bahía de Baffin",
+        "NAME_PT": "Baía de Baffin",
+        "NAME_FR": "Baie de Baffin",
+        "NAME_ID": "Pantai Baffin",
+        "NAME_ZH": "巴芬湾",
+        "ID": "14A",
+        "Longitude": -67.121706406010006,
+        "Latitude": 74.506107603999993,
+        "min_X": -82.203793167919997,
+        "min_Y": 69.616987943840002,
+        "max_X": -50.523266315390003,
+        "max_Y": 82.449752865830007,
+        "area": 529960,
+        "MRGID": 4253
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.283904230694731, 76.033343196031751]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Lincoln Sea",
+        "NAME_ES": "Mar de Lincoln",
+        "NAME_PT": "Mar de Lincoln",
+        "NAME_FR": "Mer de Lincoln",
+        "NAME_ID": "Laut Lincoln",
+        "NAME_ZH": "林肯海",
+        "ID": "17A",
+        "Longitude": -53.197844281579997,
+        "Latitude": 82.830778607910005,
+        "min_X": -70.195380389220006,
+        "min_Y": 81.495833873530003,
+        "max_X": -37.00547444819,
+        "max_Y": 83.561909260630003,
+        "area": 35262,
+        "MRGID": 4254
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.257474366814378, 82.528833389649293]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Bristol Channel",
+        "NAME_ES": "Canal de Bristol",
+        "NAME_PT": "Canal de Bristol",
+        "NAME_FR": "Canal de Bristol",
+        "NAME_ID": "Selat Bristol",
+        "NAME_ZH": "布里斯托尔海峡",
+        "ID": "20",
+        "Longitude": -4.0193544116900002,
+        "Latitude": 51.392228514620001,
+        "min_X": -4.9243173596599998,
+        "min_Y": 50.988935351089999,
+        "max_X": -2.3453917503300001,
+        "max_Y": 51.818887949219999,
+        "area": 5748,
+        "MRGID": 3141
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.176679665332861, 51.403709829245315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Irish Sea and St. George's Channel",
+        "NAME_ES": "Mar de Irlanda y Canal de San Jorge",
+        "NAME_PT": "Mar de Irlanda e Canal de São Jorge",
+        "NAME_FR": "Mer d'Irlande et Canal de Saint-Georges",
+        "NAME_ID": "Laut Irlandia dan Selat St. George",
+        "NAME_ZH": "爱尔兰海和圣乔治海峡",
+        "ID": "19",
+        "Longitude": -4.7981751055800004,
+        "Latitude": 53.445947221899999,
+        "min_X": -6.5690525767099999,
+        "min_Y": 51.904137344760002,
+        "max_X": -2.63917434252,
+        "max_Y": 55.004176020709998,
+        "area": 45922,
+        "MRGID": 2357
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.577269153034849, 53.454145848402248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Inner Seas off the West Coast of Scotland",
+        "NAME_ES": "Mares interiores de la costa occidental de Escocia",
+        "NAME_PT": "Mares interiores da costa oeste da Escócia",
+        "NAME_FR": "Mers intérieurs de la côte ouest de l'Écosse",
+        "NAME_ID": "Laut dalam di Lautan Barat Skotlandia",
+        "NAME_ZH": "苏格兰西海岸内侧海域",
+        "ID": "18",
+        "Longitude": -6.4399107113499996,
+        "Latitude": 56.405399336259997,
+        "min_X": -8.2496011886900007,
+        "min_Y": 54.336402343590002,
+        "max_X": -4.4586298466900001,
+        "max_Y": 58.624543842850002,
+        "area": 44260,
+        "MRGID": 4283
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.364531810011804, 56.480459868778041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Gulf of Aden",
+        "NAME_ES": "Golfo de Adén",
+        "NAME_PT": "Golfo de Adén",
+        "NAME_FR": "Golfe d'Aden",
+        "NAME_ID": "Golf Adén",
+        "NAME_ZH": "亚丁湾",
+        "ID": "38",
+        "Longitude": 47.652787124299998,
+        "Latitude": 12.520563919900001,
+        "min_X": 42.513462066519999,
+        "min_Y": 10.37809920322,
+        "max_X": 51.286659928890003,
+        "max_Y": 15.21967667014,
+        "area": 263754,
+        "MRGID": 4265
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.163806366627654, 12.799281656773132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Gulf of Oman",
+        "NAME_ES": "Golfo de Omán",
+        "NAME_PT": "Golfo de Omã",
+        "NAME_FR": "Golfe d'Oman",
+        "NAME_ID": "Golf Oman",
+        "NAME_ZH": "阿曼湾",
+        "ID": "40",
+        "Longitude": 58.911055319040003,
+        "Latitude": 24.49666927478,
+        "min_X": 56.268021940860002,
+        "min_Y": 22.474945545299999,
+        "max_X": 61.782472848940003,
+        "max_Y": 25.943430671920002,
+        "area": 111892,
+        "MRGID": 4267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [58.983201312364329, 24.208900749769867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Red Sea",
+        "NAME_ES": "Mar Rojo",
+        "NAME_PT": "Mar Vermelho",
+        "NAME_FR": "Mer Rouge",
+        "NAME_ID": "Laut Merah",
+        "NAME_ZH": "红海",
+        "ID": "37",
+        "Longitude": 38.735042112480002,
+        "Latitude": 20.3157309608,
+        "min_X": 33.639371309780003,
+        "min_Y": 12.45626235033,
+        "max_X": 43.505521178560002,
+        "max_Y": 28.139542937360002,
+        "area": 449811,
+        "MRGID": 4264
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.534823671306086, 20.296917438339207]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Gulf of Aqaba",
+        "NAME_ES": "Golfo de Aqaba",
+        "NAME_PT": "Golfo de Aqaba",
+        "NAME_FR": "Golfe d'Aqaba",
+        "NAME_ID": "Golf Aqaba",
+        "NAME_ZH": "亚喀巴湾",
+        "ID": "36",
+        "Longitude": 34.679305289449999,
+        "Latitude": 28.676008594340001,
+        "min_X": 34.327347517269999,
+        "min_Y": 27.9000855922,
+        "max_X": 35.001373171529998,
+        "max_Y": 29.549455165920001,
+        "area": 3555,
+        "MRGID": 4263
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.71387656619325, 28.724948048663606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Persian Gulf",
+        "NAME_ES": "Golfo del Fars",
+        "NAME_PT": "Golfo do Fars",
+        "NAME_FR": "Golfe de Fars",
+        "NAME_ID": "Golf Fars",
+        "NAME_ZH": "波斯湾",
+        "ID": "41",
+        "Longitude": 52.046717632549999,
+        "Latitude": 26.803307299139998,
+        "min_X": 47.702440976870001,
+        "min_Y": 23.95901381933,
+        "max_X": 57.3399815557,
+        "max_Y": 31.185855030980001,
+        "area": 244657,
+        "MRGID": 4266
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.776749313570349, 27.572223842156674]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Ionian Sea",
+        "NAME_ES": "Mar Ionio",
+        "NAME_PT": "Mar Ionio",
+        "NAME_FR": "Mer Ionien",
+        "NAME_ID": "Laut Ionian",
+        "NAME_ZH": "伊奥尼亚海",
+        "ID": "28f",
+        "Longitude": 18.629029440170001,
+        "Latitude": 38.017851157460001,
+        "min_X": 15.0845692161,
+        "min_Y": 36.408966395210001,
+        "max_X": 23.224675417139999,
+        "max_Y": 40.520659208159998,
+        "area": 171778,
+        "MRGID": 3351
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.559912650814645, 38.464812338768539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Tyrrhenian Sea",
+        "NAME_ES": "Mar Tirreno",
+        "NAME_PT": "Mar Tirreno",
+        "NAME_FR": "Mer Tyrrhénien",
+        "NAME_ID": "Laut Tirreno",
+        "NAME_ZH": "第勒尼安海",
+        "ID": "28e",
+        "Longitude": 12.141895406810001,
+        "Latitude": 40.119834760860002,
+        "min_X": 8.6484807733700002,
+        "min_Y": 37.80146145778,
+        "max_X": 16.22312212029,
+        "max_Y": 44.10945737326,
+        "area": 217465,
+        "MRGID": 3386
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.789779151767082, 40.955385923371779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Adriatic Sea",
+        "NAME_ES": "Mar Adriático",
+        "NAME_PT": "Mar Adriático",
+        "NAME_FR": "Mer Adriatique",
+        "NAME_ID": "Laut Adriatik",
+        "NAME_ZH": "亚得里亚海",
+        "ID": "28g",
+        "Longitude": 16.035585589810001,
+        "Latitude": 42.729383957899998,
+        "min_X": 12.06522584,
+        "min_Y": 39.743097801570002,
+        "max_X": 20.020827650779999,
+        "max_Y": 45.8089137081,
+        "area": 139454,
+        "MRGID": 3314
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.371309268940433, 42.77596235288037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Gulf of Suez",
+        "NAME_ES": "Golfo de Suez",
+        "NAME_PT": "Golfo de Suez",
+        "NAME_FR": "Golfe de Suez",
+        "NAME_ID": "Golf Suez",
+        "NAME_ZH": "苏伊士湾",
+        "ID": "35",
+        "Longitude": 33.21991139699,
+        "Latitude": 28.540563898249999,
+        "min_X": 32.34285390358,
+        "min_Y": 27.45,
+        "max_X": 34.227763545279998,
+        "max_Y": 30.068167493370002,
+        "area": 10438,
+        "MRGID": 4262
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.022549322075506, 28.761226117241605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mediterranean Sea - Eastern Basin",
+        "NAME_ES": "Mar Mediterráneo - Cuenca Oriental",
+        "NAME_PT": "Mar Mediterrâneo - Bacia Oriental",
+        "NAME_FR": "Mer Méditerranée - Basin Oriental",
+        "NAME_ID": "Laut Mediterania - Baskota Timur",
+        "NAME_ZH": "地中海东部盆地",
+        "ID": "28B",
+        "Longitude": 23.167740744370001,
+        "Latitude": 34.075069092850001,
+        "min_X": 10.01584875592,
+        "min_Y": 30.068086780520002,
+        "max_X": 36.21572947504,
+        "max_Y": 37.80146145778,
+        "area": 1173640,
+        "MRGID": 4280
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.832773393251014, 33.935281634389995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Aegean Sea",
+        "NAME_ES": "Mar Egeo",
+        "NAME_PT": "Mar Egeo",
+        "NAME_FR": "Mer Égée",
+        "NAME_ID": "Laut Egea",
+        "NAME_ZH": "爱琴海",
+        "ID": "28h",
+        "Longitude": 25.17461340306,
+        "Latitude": 37.852358675120001,
+        "min_X": 22.53159654165,
+        "min_Y": 35.109489441279997,
+        "max_X": 28.330561161270001,
+        "max_Y": 41.091325521560002,
+        "area": 191305,
+        "MRGID": 3315
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.713055847388404, 38.100327551025799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sea of Marmara",
+        "NAME_ES": "Mar de Marmara",
+        "NAME_PT": "Mar de Marmara",
+        "NAME_FR": "Mer de Marmara",
+        "NAME_ID": "Laut Marmara",
+        "NAME_ZH": "马尔马拉海",
+        "ID": "29",
+        "Longitude": 28.15292137482,
+        "Latitude": 40.670402244050003,
+        "min_X": 26.174220519919999,
+        "min_Y": 39.998908520009998,
+        "max_X": 29.94218587848,
+        "max_Y": 41.232934953419999,
+        "area": 11675,
+        "MRGID": 3369
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.33574926413808, 40.616947472497927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Singapore Strait",
+        "NAME_ES": "Estrecho de Singapur",
+        "NAME_PT": "Estreito de Singapura",
+        "NAME_FR": "Détroit de Singapour",
+        "NAME_ID": "Selat Singapura",
+        "NAME_ZH": "新加坡海峡",
+        "ID": "46B",
+        "Longitude": 103.95696616966001,
+        "Latitude": 1.25050208602,
+        "min_X": 103.34568774669,
+        "min_Y": 1.0717233423600001,
+        "max_X": 104.58264058659999,
+        "max_Y": 1.7003724572200001,
+        "area": 2684,
+        "MRGID": 4336
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.023595726052278, 1.385935842914861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Celebes Sea",
+        "NAME_ES": "Mar de Celebes",
+        "NAME_PT": "Mar de Celebes",
+        "NAME_FR": "Mer des Celebes",
+        "NAME_ID": "Laut Celebes",
+        "NAME_ZH": "苏拉威西海",
+        "ID": "48b",
+        "Longitude": 121.93858111739,
+        "Latitude": 3.7143264222800001,
+        "min_X": 116.71834194632,
+        "min_Y": 0.80112254576999997,
+        "max_X": 125.61386502511,
+        "max_Y": 7.85156249981,
+        "area": 457342,
+        "MRGID": 4359
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.912140714474987, 4.326431393793854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Malacca Strait",
+        "NAME_ES": "Estrecho de Malaca",
+        "NAME_PT": "Estreito de Malaca",
+        "NAME_FR": "Détroit de Malacca",
+        "NAME_ID": "Selat Malaka",
+        "NAME_ZH": "马六甲海峡",
+        "ID": "46A",
+        "Longitude": 99.193875928330002,
+        "Latitude": 4.9904786517900002,
+        "min_X": 95.44226152409,
+        "min_Y": 0.85731550906999998,
+        "max_X": 103.51065042784001,
+        "max_Y": 8.4539951089900001,
+        "area": 195534,
+        "MRGID": 4275
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.304374138415568, 4.655872226072468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sulu Sea",
+        "NAME_ES": "Mar de Sulu",
+        "NAME_PT": "Mar de Sulu",
+        "NAME_FR": "Mer des Sulu",
+        "NAME_ID": "Laut Sulu",
+        "NAME_ZH": "苏禄海",
+        "ID": "48a",
+        "Longitude": 120.16891107028,
+        "Latitude": 8.6145983825400005,
+        "min_X": 116.73968720400001,
+        "min_Y": 5.0200958265100004,
+        "max_X": 123.42047393323,
+        "max_Y": 13.44519567329,
+        "area": 337029,
+        "MRGID": 4358
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.585159957589383, 9.232657324426043]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Gulf of Thailand",
+        "NAME_ES": "Golfo de Tailandia",
+        "NAME_PT": "Golfo da Tailândia",
+        "NAME_FR": "Golfe de Thaïlande",
+        "NAME_ID": "Laut Thailand",
+        "NAME_ZH": "泰国湾",
+        "ID": "47",
+        "Longitude": 101.84485132064999,
+        "Latitude": 9.7198929343400007,
+        "min_X": 99.132742047510007,
+        "min_Y": 5.3905352354099998,
+        "max_X": 105.36231124397,
+        "max_Y": 13.727085709140001,
+        "area": 297927,
+        "MRGID": 4334
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.460531689947004, 9.558662235673694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Eastern China Sea",
+        "NAME_ES": "Mar Oriental de China",
+        "NAME_PT": "Mar Oriental da China",
+        "NAME_FR": "Mer Oriental de Chine",
+        "NAME_ID": "Laut Tenggara Cina",
+        "NAME_ZH": "东海",
+        "ID": "50",
+        "Longitude": 125.21708986497001,
+        "Latitude": 29.13089135213,
+        "min_X": 118.47804582105999,
+        "min_Y": 24.057607520689999,
+        "max_X": 131.13220368270001,
+        "max_Y": 33.371959209549999,
+        "area": 761356,
+        "MRGID": 4302
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.037621688372354, 28.71479415867357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Seto Naikai or Inland Sea",
+        "NAME_ES": "Mar Seto Naikai o Mar Interior",
+        "NAME_PT": "Mar Seto Naikai ou Mar Interior",
+        "NAME_FR": "Mer Seto Naikai ou Mer Intérieur",
+        "NAME_ID": "Laut Seto Naikai atau Laut Dalam",
+        "NAME_ZH": "濑户内海",
+        "ID": "53",
+        "Longitude": 132.98664239386,
+        "Latitude": 34.070453530249999,
+        "min_X": 130.83685406459,
+        "min_Y": 33.197258114870003,
+        "max_X": 135.66974997518,
+        "max_Y": 34.864530801960001,
+        "area": 18131,
+        "MRGID": 4306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [133.311620300494781, 34.030907034981766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Philippine Sea",
+        "NAME_ES": "Mar Filipino",
+        "NAME_PT": "Mar Filipino",
+        "NAME_FR": "Mer Philippin",
+        "NAME_ID": "Laut Filipina",
+        "NAME_ZH": "菲律宾海",
+        "ID": "56",
+        "Longitude": 133.33255691183001,
+        "Latitude": 18.81115794782,
+        "min_X": 120.10013221916,
+        "min_Y": 2.4983259439899999,
+        "max_X": 146.05334174632,
+        "max_Y": 35.26312375066,
+        "area": 5641996,
+        "MRGID": 4300
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [133.901647056657112, 18.885454086378125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Yellow Sea",
+        "NAME_ES": "Mar Amarillo",
+        "NAME_PT": "Mar Amarelo",
+        "NAME_FR": "Mer Jaune",
+        "NAME_ID": "Laut Kuning",
+        "NAME_ZH": "黄海",
+        "ID": "51",
+        "Longitude": 122.70217134725,
+        "Latitude": 36.697096857349997,
+        "min_X": 117.51622498019999,
+        "min_Y": 33.276033878760003,
+        "max_X": 127.45887172195,
+        "max_Y": 41.159163951949999,
+        "area": 408198,
+        "MRGID": 4303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.357499553883343, 37.217596888285883]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Gulf of Riga",
+        "NAME_ES": "Golfo de Riga",
+        "NAME_PT": "Golfo de Riga",
+        "NAME_FR": "Golfe de Riga",
+        "NAME_ID": "Golf Riga",
+        "NAME_ZH": "里加湾",
+        "ID": "1c",
+        "Longitude": 23.381028171259999,
+        "Latitude": 57.935191598039999,
+        "min_X": 21.725104755819999,
+        "min_Y": 56.804579854080004,
+        "max_X": 24.61678564584,
+        "max_Y": 59.214820835319998,
+        "area": 18692,
+        "MRGID": 2409
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.313184436004235, 58.008866131167096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Baltic Sea",
+        "NAME_ES": "Mar Báltico",
+        "NAME_PT": "Mar Báltico",
+        "NAME_FR": "Mer Baltique",
+        "NAME_ID": "Laut Balit",
+        "NAME_ZH": "波罗的海",
+        "ID": "1",
+        "Longitude": 18.07523542985,
+        "Latitude": 56.665843379019996,
+        "min_X": 9.5222781547600004,
+        "min_Y": 52.653518676749997,
+        "max_X": 23.51168835184,
+        "max_Y": 59.93861675286,
+        "area": 215863,
+        "MRGID": 2401
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.750125374955516, 56.296510100310925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Gulf of Finland",
+        "NAME_ES": "Golfo de Finlandia",
+        "NAME_PT": "Golfo de Finlândia",
+        "NAME_FR": "Golfe de Finlande",
+        "NAME_ID": "Golf Finlandia",
+        "NAME_ZH": "芬兰湾",
+        "ID": "1b",
+        "Longitude": 29.619390767439999,
+        "Latitude": 60.537348728589997,
+        "min_X": 22.910012320570001,
+        "min_Y": 59.214594244529998,
+        "max_X": 37.468913555519997,
+        "max_Y": 62.915774941759999,
+        "area": 57077,
+        "MRGID": 2407
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.382579778384713, 61.06534290305261]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Gulf of Bothnia",
+        "NAME_ES": "Golfo de Bothnia",
+        "NAME_PT": "Golfo de Bothnia",
+        "NAME_FR": "Golfe de Bothnie",
+        "NAME_ID": "Golf Bothnia",
+        "NAME_ZH": "博滕海",
+        "ID": "1a",
+        "Longitude": 20.77188093442,
+        "Latitude": 62.632246343879999,
+        "min_X": 17.038916945059999,
+        "min_Y": 59.720874547519998,
+        "max_X": 25.486578464219999,
+        "max_Y": 67.080588340480006,
+        "area": 113419,
+        "MRGID": 2402
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.466713452707815, 63.400650560774821]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "White Sea",
+        "NAME_ES": "Mar Blanco",
+        "NAME_PT": "Mar Branco",
+        "NAME_FR": "Mer Blanc",
+        "NAME_ID": "Laut Putih",
+        "NAME_ZH": "白海",
+        "ID": "8",
+        "Longitude": 39.314816926299997,
+        "Latitude": 66.223012569389994,
+        "min_X": 32.13250935053,
+        "min_Y": 60.95104753991,
+        "max_X": 45.671582937399997,
+        "max_Y": 68.656842703210003,
+        "area": 90531,
+        "MRGID": 4248
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.416966025391446, 64.803943634291443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "East Siberian Sea",
+        "NAME_ES": "Mar del Este de Siberia",
+        "NAME_PT": "Mar do Leste da Sibéria",
+        "NAME_FR": "Mer de l'Est de Sibérie",
+        "NAME_ID": "Laut Timur Siberia",
+        "NAME_ZH": "东西伯利亚海",
+        "ID": "11",
+        "Longitude": 159.34407191534001,
+        "Latitude": 73.115343811830002,
+        "min_X": 139.03176033527001,
+        "min_Y": 64.315359712079996,
+        "max_X": 179.99999988165001,
+        "max_Y": 77.097135191690001,
+        "area": 633057,
+        "MRGID": 4244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [169.107161484332238, 70.706169963023513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "South Atlantic Ocean",
+        "NAME_ES": "Mar del Sur del Atlántico",
+        "NAME_PT": "Mar do Sul do Atlântico",
+        "NAME_FR": "Mer du Sud de l'Atlantique",
+        "NAME_ID": "Laut Selatan Atlantik",
+        "NAME_ZH": "南大西洋",
+        "ID": "32",
+        "Longitude": -18.80876715914,
+        "Latitude": -33.732395514449998,
+        "min_X": -69.600836753709999,
+        "min_Y": -60.0,
+        "max_X": 20.009049138270001,
+        "max_Y": 0.07510554798000001,
+        "area": 40501812,
+        "MRGID": 1914
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.485022809053206, -29.962391257400526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Southern Ocean",
+        "NAME_ES": "Oceano Antártico",
+        "NAME_PT": "Oceano Antártico",
+        "NAME_FR": "Océan Antarctique",
+        "NAME_ID": "Laut Antartika",
+        "NAME_ZH": "南极海",
+        "ID": "67",
+        "Longitude": -26.63285800737,
+        "Latitude": -68.03981889232,
+        "min_X": -180.0,
+        "min_Y": -85.562499999780002,
+        "max_X": 180.0,
+        "max_Y": -60.0,
+        "area": 21695157,
+        "MRGID": 1907
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-136.955545180897161, -72.781288027520432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "South Pacific Ocean",
+        "NAME_ES": "Mar del Sur del Pacífico",
+        "NAME_PT": "Mar do Sul do Pacífico",
+        "NAME_FR": "Mer du Sud du Pacifique",
+        "NAME_ID": "Laut Selatan Pasifik",
+        "NAME_ZH": "南太平洋",
+        "ID": "61",
+        "Longitude": -82.454779449200004,
+        "Latitude": -30.457193140499999,
+        "min_X": -146.48790906100001,
+        "min_Y": -60.0,
+        "max_X": 130.11129212399999,
+        "max_Y": 3.3911441931600002,
+        "area": 76681173,
+        "MRGID": 1910
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-125.685523680735344, -29.302993357257549]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Gulf of Tomini",
+        "NAME_ES": "Golfo de Tomini",
+        "NAME_PT": "Golfo de Tomini",
+        "NAME_FR": "Golfe de Tomini",
+        "NAME_ID": "Golf Tomini",
+        "NAME_ZH": "托米尼湾",
+        "ID": "48d",
+        "Longitude": 121.60633218528,
+        "Latitude": -0.26655629489,
+        "min_X": 120.00502955877,
+        "min_Y": -1.44053983684,
+        "max_X": 123.41022324561,
+        "max_Y": 0.55528843440999998,
+        "area": 56739,
+        "MRGID": 4355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.916936781330591, -0.442639350675414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Makassar Strait",
+        "NAME_ES": "Estrecho de Makassar",
+        "NAME_PT": "Estreito de Makassar",
+        "NAME_FR": "Détroit de Makassar",
+        "NAME_ID": "Selat Makassar",
+        "NAME_ZH": "马卡萨海峡",
+        "ID": "48m",
+        "Longitude": 118.21399092595,
+        "Latitude": -2.1114535648000001,
+        "min_X": 115.95454657067,
+        "min_Y": -5.5956411448400001,
+        "max_X": 120.82833421185001,
+        "max_Y": 1.32499976463,
+        "area": 198117,
+        "MRGID": 4339
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.853714359735562, -2.135315358916579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Halmahera Sea",
+        "NAME_ES": "Mar de Halmahera",
+        "NAME_PT": "Mar de Halmahera",
+        "NAME_FR": "Mer de Halmahera",
+        "NAME_ID": "Laut Halmahera",
+        "NAME_ZH": "哈尔马赫拉海",
+        "ID": "48e",
+        "Longitude": 128.98856643082999,
+        "Latitude": 0.03285997319,
+        "min_X": 127.54915278580999,
+        "min_Y": -1.68096824379,
+        "max_X": 130.93169725858999,
+        "max_Y": 2.48701016485,
+        "area": 75295,
+        "MRGID": 4353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [129.262375123313177, 0.403022647227495]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Molukka Sea",
+        "NAME_ES": "Mar de Molukka",
+        "NAME_PT": "Mar de Molukka",
+        "NAME_FR": "Mer des Moluques",
+        "NAME_ID": "Laut Molukka",
+        "NAME_ZH": "摩鹿加海",
+        "ID": "48c",
+        "Longitude": 126.0565172323,
+        "Latitude": 0.67433266753,
+        "min_X": 123.29315797331,
+        "min_Y": -1.8388217995,
+        "max_X": 128.56640471931999,
+        "max_Y": 4.4859875436900003,
+        "area": 221671,
+        "MRGID": 4354
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [125.711817324258661, 1.323741316658513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Indian Ocean",
+        "NAME_ES": "Oceano Índico",
+        "NAME_PT": "Oceano Índico",
+        "NAME_FR": "Océan Indien",
+        "NAME_ID": "Laut Hindia",
+        "NAME_ZH": "印度洋",
+        "ID": "45",
+        "Longitude": 79.208586014290006,
+        "Latitude": -32.724583810459997,
+        "min_X": 20.002615952719999,
+        "min_Y": -60.0,
+        "max_X": 146.8982192222,
+        "max_Y": 10.44499945636,
+        "area": 58230954,
+        "MRGID": 1904
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.177564460534157, -24.77744179949935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Bay of Bengal",
+        "NAME_ES": "Bahía de Bengala",
+        "NAME_PT": "Baía de Bengala",
+        "NAME_FR": "Baie de Bengale",
+        "NAME_ID": "Teluk Bengala",
+        "NAME_ZH": "孟加拉湾",
+        "ID": "43",
+        "Longitude": 87.454425494389994,
+        "Latitude": 13.173221670249999,
+        "min_X": 78.898220062510006,
+        "min_Y": 5.7339710160099999,
+        "max_X": 95.048840116449995,
+        "max_Y": 24.377668976439999,
+        "area": 2207565,
+        "MRGID": 4273
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.898029309450294, 15.061793079460028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "South China Sea",
+        "NAME_ES": "Mar del Sur de China",
+        "NAME_PT": "Mar do Sul da China",
+        "NAME_FR": "Mer du Sud de la Chine",
+        "NAME_ID": "Laut Selatan Tiongkok",
+        "NAME_ZH": "南中国海",
+        "ID": "49",
+        "Longitude": 112.30802222078,
+        "Latitude": 11.776749972459999,
+        "min_X": 102.2384721041,
+        "min_Y": -3.2287231678300001,
+        "max_X": 122.15129880188,
+        "max_Y": 25.567284345899999,
+        "area": 3362904,
+        "MRGID": 4332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.99555776587431, 11.169250428464579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Arabian Sea",
+        "NAME_ES": "Mar de Arabia",
+        "NAME_PT": "Mar de Arabia",
+        "NAME_FR": "Mer d'Arabie",
+        "NAME_ID": "Laut Arab",
+        "NAME_ZH": "阿拉伯海",
+        "ID": "39",
+        "Longitude": 63.994317934750001,
+        "Latitude": 13.33512865951,
+        "min_X": 51.022307157950003,
+        "min_Y": -0.70336914036999998,
+        "max_X": 74.335017442999998,
+        "max_Y": 25.5973770618,
+        "area": 4241184,
+        "MRGID": 4268
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [63.221294905111662, 12.44659000637381]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "North Pacific Ocean",
+        "NAME_ES": "Oceano Pacífico Norte",
+        "NAME_PT": "Oceano Pacífico Norte",
+        "NAME_FR": "Océan Pacifique Nord",
+        "NAME_ID": "Laut Utara Pasifik",
+        "NAME_ZH": "北太平洋",
+        "ID": "57",
+        "Longitude": -40.157440510900003,
+        "Latitude": 23.9623940894,
+        "min_X": -76.985440373399996,
+        "min_Y": 1.9999999999999999e-11,
+        "max_X": 128.68653112499999,
+        "max_Y": 58.211545022000003,
+        "area": 65154681,
+        "MRGID": 1908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.177348069722854, 29.105329811821534]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "The Coastal Waters of Southeast Alaska and British Columbia",
+        "NAME_ES": "Aguas Costeras del Sureste de Alaska y Columbia Británica",
+        "NAME_PT": "Águas Costeiras do Sudeste da Alaska e Colômbia Britânica",
+        "NAME_FR": "Mers Côtières du Sud-Est de l'Alaska et de la Colombie-Britannique",
+        "NAME_ID": "Laut Utara Pasifik",
+        "NAME_ZH": "北太平洋",
+        "ID": "59",
+        "Longitude": -130.27032545934,
+        "Latitude": 53.350577672859998,
+        "min_X": -137.13016986804001,
+        "min_Y": 47.023823142319998,
+        "max_X": -122.14991795975,
+        "max_Y": 59.497163176640001,
+        "area": 124532,
+        "MRGID": 4313
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-130.950797239216456, 53.260456263895534]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Gulf of Mexico",
+        "NAME_ES": "Golfo de México",
+        "NAME_PT": "Golfo do México",
+        "NAME_FR": "Golfe du Mexique",
+        "NAME_ID": "Golf México",
+        "NAME_ZH": "墨西哥湾",
+        "ID": "26",
+        "Longitude": -90.379585252360002,
+        "Latitude": 24.942315626540001,
+        "min_X": -98.053921818440003,
+        "min_Y": 17.40680801848,
+        "max_X": -80.433040737840003,
+        "max_Y": 31.464843750339998,
+        "area": 1566759,
+        "MRGID": 4288
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.344594035086971, 24.43610370162466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "North Atlantic Ocean",
+        "NAME_ES": "Oceano Atlántico Norte",
+        "NAME_PT": "Oceano Atlântico Norte",
+        "NAME_FR": "Océan Atlantique Nord",
+        "NAME_ID": "Laut Utara Atlantik",
+        "NAME_ZH": "北大西洋",
+        "ID": "23",
+        "Longitude": -37.624244457229999,
+        "Latitude": 29.480034244799999,
+        "min_X": -83.014914154859994,
+        "min_Y": -0.00256264235,
+        "max_X": 6.6199670567800002,
+        "max_Y": 68.638715743640006,
+        "area": 34507128,
+        "MRGID": 1912
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-42.166314643950614, 34.318143904467718]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Gulf of St. Lawrence",
+        "NAME_ES": "Golfo de San Lorenzo",
+        "NAME_PT": "Golfo de São Lourenço",
+        "NAME_FR": "Golfe de Saint-Laurent",
+        "NAME_ID": "Golf San Lorenzo",
+        "NAME_ZH": "圣劳伦斯湾",
+        "ID": "24",
+        "Longitude": -61.566567382099997,
+        "Latitude": 48.380716031,
+        "min_X": -74.864812970439999,
+        "min_Y": 44.958498716740003,
+        "max_X": -54.70344650725,
+        "max_Y": 52.222418427770002,
+        "area": 290874,
+        "MRGID": 4290
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.721166165982538, 48.590444207384394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Balearic (Iberian Sea)",
+        "NAME_ES": "Mar Balear",
+        "NAME_PT": "Mar Balear",
+        "NAME_FR": "Mer Baléare",
+        "NAME_ID": "Laut Baléar",
+        "NAME_ZH": "巴利阿里海",
+        "ID": "28c",
+        "Longitude": 1.94994122114,
+        "Latitude": 40.083207979100003,
+        "min_X": -0.36589491382,
+        "min_Y": 38.647311109119997,
+        "max_X": 4.2902151269299997,
+        "max_Y": 41.874845515010001,
+        "area": 80078,
+        "MRGID": 3322
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.208382773501076, 40.260967373695507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Bay of Biscay",
+        "NAME_ES": "Bahía de Biscaya",
+        "NAME_PT": "Baía de Biscaya",
+        "NAME_FR": "Baie de Biscaye",
+        "NAME_ID": "Laut Biscaya",
+        "NAME_ZH": "比斯开湾",
+        "ID": "22",
+        "Longitude": -3.9351354625599999,
+        "Latitude": 45.224428596599999,
+        "min_X": -7.8968124387399996,
+        "min_Y": 43.274428129150003,
+        "max_X": -0.14624464477,
+        "max_Y": 47.987787723220002,
+        "area": 174437,
+        "MRGID": 2359
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.655990481476431, 45.630999922558459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Celtic Sea",
+        "NAME_ES": "Mar Céltico",
+        "NAME_PT": "Mar Céltico",
+        "NAME_FR": "Mer Celtique",
+        "NAME_ID": "Laut Celtic",
+        "NAME_ZH": "凯尔特海",
+        "ID": "21A",
+        "Longitude": -7.6835744400400001,
+        "Latitude": 49.589876844000003,
+        "min_X": -11.5,
+        "min_Y": 46.500565787719999,
+        "max_X": -4.1380765434000004,
+        "max_Y": 52.395689845009997,
+        "area": 215080,
+        "MRGID": 2351
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.357461212453231, 49.44247109824758]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mediterranean Sea - Western Basin",
+        "NAME_ES": "Mar Mediterráneo - Cuenca Occidental",
+        "NAME_PT": "Mar Mediterrâneo - Bacia Ocidental",
+        "NAME_FR": "Mer Méditerranée - Bassin Occidental",
+        "NAME_ID": "Laut Mediterania - Baskin Barat",
+        "NAME_ZH": "地中海西部盆地",
+        "ID": "28A",
+        "Longitude": 5.1769394063099998,
+        "Latitude": 39.310519309,
+        "min_X": -2.1933887005299999,
+        "min_Y": 35.572317242350003,
+        "max_X": 12.42424750352,
+        "max_Y": 43.923967480709997,
+        "area": 476707,
+        "MRGID": 4279
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.313997142544741, 39.748249590396355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Hudson Bay",
+        "NAME_ES": "Bahía de Hudson",
+        "NAME_PT": "Baía de Hudson",
+        "NAME_FR": "Baie de Hudson",
+        "NAME_ID": "Laut Hudson",
+        "NAME_ZH": "哈德逊湾",
+        "ID": "16",
+        "Longitude": -84.889119595759993,
+        "Latitude": 59.035875713199999,
+        "min_X": -95.346169113810006,
+        "min_Y": 51.143587946629999,
+        "max_X": -75.884378075689995,
+        "max_Y": 66.026429868929995,
+        "area": 832649,
+        "MRGID": 4252
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.868722897308004, 58.585009336511746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "The Northwestern Passages",
+        "NAME_ES": "Pasajes del Noroeste",
+        "NAME_PT": "Passagens do Noroeste",
+        "NAME_FR": "Passages du Nord-Ouest",
+        "NAME_ID": "Laut Utara Barat",
+        "NAME_ZH": "西北航道",
+        "ID": "14",
+        "Longitude": -98.523840398039994,
+        "Latitude": 72.607482073100002,
+        "min_X": -128.00557497745001,
+        "min_Y": 63.757358312740003,
+        "max_X": -69.090067863339996,
+        "max_Y": 81.70176401866,
+        "area": 1062173,
+        "MRGID": 5698
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.040861902683446, 72.729553222553207]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Arctic Ocean",
+        "NAME_ES": "Océano Ártico",
+        "NAME_PT": "Oceano Ártico",
+        "NAME_FR": "Océan Arctique",
+        "NAME_ID": "Laut Arktik",
+        "NAME_ZH": "北冰洋",
+        "ID": "17",
+        "Longitude": -5.2025834629499998,
+        "Latitude": 84.864886027500006,
+        "min_X": -180.0,
+        "min_Y": 71.387511801170007,
+        "max_X": 180.0,
+        "max_Y": 90.0,
+        "area": 5120993,
+        "MRGID": 1906
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-138.48815599411401, 80.695666432609912]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "English Channel",
+        "NAME_ES": "Canal Inglés",
+        "NAME_PT": "Canal Inglês",
+        "NAME_FR": "Canal Anglais",
+        "NAME_ID": "Laut Inggris",
+        "NAME_ZH": "英吉利海峡",
+        "ID": "21",
+        "Longitude": -2.0633950579200002,
+        "Latitude": 49.861217947299998,
+        "min_X": -5.7087284806799996,
+        "min_Y": 48.500020861869999,
+        "max_X": 1.93090510399,
+        "max_Y": 51.166003706669997,
+        "area": 81419,
+        "MRGID": 2389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.498390864112125, 49.833014190052907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Barentsz Sea",
+        "NAME_ES": "Mar de Barentsz",
+        "NAME_PT": "Mar de Barentsz",
+        "NAME_FR": "Mer de Barents",
+        "NAME_ID": "Laut Barents",
+        "NAME_ZH": "巴伦支海",
+        "ID": "7",
+        "Longitude": 42.11782660718,
+        "Latitude": 74.723925059199999,
+        "min_X": 16.581781017779999,
+        "min_Y": 65.882767558479998,
+        "max_X": 68.578263186680005,
+        "max_Y": 81.851234435720002,
+        "area": 1408430,
+        "MRGID": 4247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.125415843414416, 73.870042502909357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Greenland Sea",
+        "NAME_ES": "Mar de Groenlandia",
+        "NAME_PT": "Mar de Groenlândia",
+        "NAME_FR": "Mer de Groenland",
+        "NAME_ID": "Laut Greenland",
+        "NAME_ZH": "格陵兰海",
+        "ID": "5",
+        "Longitude": -8.303164223,
+        "Latitude": 74.250271646599998,
+        "min_X": -35.986789942000001,
+        "min_Y": 65.006961822530002,
+        "max_X": 17.482203006860001,
+        "max_Y": 82.780654471160005,
+        "area": 1186456,
+        "MRGID": 2356
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.75984236966438, 73.893973529105196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "North Sea",
+        "NAME_ES": "Mar del Norte",
+        "NAME_PT": "Mar do Norte",
+        "NAME_FR": "Mer du Nord",
+        "NAME_ID": "Laut Utara",
+        "NAME_ZH": "北海",
+        "ID": "4",
+        "Longitude": 2.7378602359299999,
+        "Latitude": 56.423995203499999,
+        "min_X": -4.4453706741200003,
+        "min_Y": 50.995364665549999,
+        "max_X": 12.005942344559999,
+        "max_Y": 61.017022848430003,
+        "area": 524493,
+        "MRGID": 2350
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.798252273806725, 56.006194293431975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Andaman Sea",
+        "NAME_ES": "Mar de Andamán",
+        "NAME_PT": "Mar de Andamã",
+        "NAME_FR": "Mer des Andamans",
+        "NAME_ID": "Laut Andaman",
+        "NAME_ZH": "安达曼海",
+        "ID": "44",
+        "Longitude": 95.661731510600006,
+        "Latitude": 11.2014939692,
+        "min_X": 92.390424050009997,
+        "min_Y": 5.5343087670799997,
+        "max_X": 99.139738678599997,
+        "max_Y": 17.753906249970001,
+        "area": 613099,
+        "MRGID": 4274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [95.388657921560593, 11.644118726298295]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Black Sea",
+        "NAME_ES": "Mar Negro",
+        "NAME_PT": "Mar Negro",
+        "NAME_FR": "Mer Noire",
+        "NAME_ID": "Laut Hitam",
+        "NAME_ZH": "黑海",
+        "ID": "30",
+        "Longitude": 34.175133408900003,
+        "Latitude": 43.276524042600002,
+        "min_X": 27.44371211572,
+        "min_Y": 40.908753514460003,
+        "max_X": 42.354960441869999,
+        "max_Y": 47.310296416349999,
+        "area": 423026,
+        "MRGID": 3319
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.869609744229948, 44.109711408804557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sea of Azov",
+        "NAME_ES": "Mar de Azov",
+        "NAME_PT": "Mar de Azov",
+        "NAME_FR": "Mer d'Azov",
+        "NAME_ID": "Laut Azov",
+        "NAME_ZH": "亚速海",
+        "ID": "31",
+        "Longitude": 36.754251884529999,
+        "Latitude": 46.163049455299998,
+        "min_X": 34.516336679090003,
+        "min_Y": 45.10090956338,
+        "max_X": 40.42968749968,
+        "max_Y": 47.376395106449998,
+        "area": 39547,
+        "MRGID": 3320
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.754677308932067, 46.238547801789679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Japan Sea",
+        "NAME_ES": "Mar de Japón",
+        "NAME_PT": "Mar de Japão",
+        "NAME_FR": "Mer du Japon",
+        "NAME_ID": "Laut Jepang",
+        "NAME_ZH": "日本海",
+        "ID": "52",
+        "Longitude": 135.13274500726999,
+        "Latitude": 40.508430242800003,
+        "min_X": 125.8013889,
+        "min_Y": 32.575013683629997,
+        "max_X": 142.26383471529999,
+        "max_Y": 51.747333169389996,
+        "area": 1066307,
+        "MRGID": 4307
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [134.846177683465214, 42.161242783227905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sea of Okhotsk",
+        "NAME_ES": "Mar de Okhotsk",
+        "NAME_PT": "Mar de Okhotsk",
+        "NAME_FR": "Mer d'Okhotsk",
+        "NAME_ID": "Laut Okhotsk",
+        "NAME_ZH": "鄂霍次克海",
+        "ID": "54",
+        "Longitude": 148.92540464928999,
+        "Latitude": 53.233858985200001,
+        "min_X": 135.17187750324001,
+        "min_Y": 43.21659433816,
+        "max_X": 167.16820895628001,
+        "max_Y": 62.915482520899999,
+        "area": 1613208,
+        "MRGID": 4309
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [149.696462872973456, 53.066025137999816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Kara Sea",
+        "NAME_ES": "Mar de Kara",
+        "NAME_PT": "Mar de Kara",
+        "NAME_FR": "Mer de Kara",
+        "NAME_ID": "Laut Kara",
+        "NAME_ZH": "卡拉海",
+        "ID": "9",
+        "Longitude": 77.392377602449997,
+        "Latitude": 75.429883179599997,
+        "min_X": 54.930534005239998,
+        "min_Y": 64.432348013250007,
+        "max_X": 107.60644340504,
+        "max_Y": 81.268159208249998,
+        "area": 896938,
+        "MRGID": 4246
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [62.763793511205286, 72.850279688456979]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Laptev Sea",
+        "NAME_ES": "Mar de Laptev",
+        "NAME_PT": "Mar de Laptev",
+        "NAME_FR": "Mer de Laptev",
+        "NAME_ID": "Laut Laptev",
+        "NAME_ZH": "拉普捷夫海",
+        "ID": "10",
+        "Longitude": 122.00656599958,
+        "Latitude": 75.493670614699994,
+        "min_X": 93.657159447949994,
+        "min_Y": 63.687822938079997,
+        "max_X": 141.22509455676999,
+        "max_Y": 81.268954973310002,
+        "area": 513667,
+        "MRGID": 4245
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [134.377457724601811, 72.478396892302854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Kattegat",
+        "NAME_ES": "Kattegat",
+        "NAME_PT": "Kattegat",
+        "NAME_FR": "Kattegat",
+        "NAME_ID": "Laut Kattegat",
+        "NAME_ZH": "卡特加特海峡",
+        "ID": "2",
+        "Longitude": 11.30411886559,
+        "Latitude": 56.343197642699998,
+        "min_X": 9.3655964189199992,
+        "min_Y": 54.633731909449999,
+        "max_X": 13.06291067639,
+        "max_Y": 58.077469348629997,
+        "area": 35447,
+        "MRGID": 2374
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.826326076127049, 56.355614065886584]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Laccadive Sea",
+        "NAME_ES": "Mar de Laccadive",
+        "NAME_PT": "Mar de Laccadive",
+        "NAME_FR": "Mer de Laccadive",
+        "NAME_ID": "Laut Laccadive",
+        "NAME_ZH": "拉克代夫海",
+        "ID": "42",
+        "Longitude": 75.182350877169995,
+        "Latitude": 6.9336973216100004,
+        "min_X": 71.98242,
+        "min_Y": -0.69315814984000002,
+        "max_X": 80.588793278189996,
+        "max_Y": 14.79267025033,
+        "area": 846351,
+        "MRGID": 4269
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.413952355568838, 7.049772262380117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Skagerrak",
+        "NAME_ES": "Skagerrak",
+        "NAME_PT": "Skagerrak",
+        "NAME_FR": "Mer de Skagerrak",
+        "NAME_ID": "Laut Skagerrak",
+        "NAME_ZH": "斯卡格拉克海峡",
+        "ID": "3",
+        "Longitude": 9.6419154562900005,
+        "Latitude": 58.139754744299999,
+        "min_X": 6.9982211585799998,
+        "min_Y": 57.098801851419999,
+        "max_X": 11.916559338840001,
+        "max_Y": 59.919143915159999,
+        "area": 32040,
+        "MRGID": 2379
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.103897154201581, 58.508996546253741]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Norwegian Sea",
+        "NAME_ES": "Mar Noruego",
+        "NAME_PT": "Mar Noruego",
+        "NAME_FR": "Mer du Norvège",
+        "NAME_ID": "Laut Norwegia",
+        "NAME_ZH": "挪威海",
+        "ID": "6",
+        "Longitude": 4.5665107742200002,
+        "Latitude": 68.215650084499998,
+        "min_X": -13.50065481697,
+        "min_Y": 60.860818028430003,
+        "max_X": 25.788650385130001,
+        "max_Y": 76.564547392679998,
+        "area": 1437096,
+        "MRGID": 2353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.874890310766363, 68.712727010393309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Ligurian Sea",
+        "NAME_ES": "Mar Ligurio",
+        "NAME_PT": "Mar Ligurio",
+        "NAME_FR": "Mer Ligurienne",
+        "NAME_ID": "Laut Ligur",
+        "NAME_ZH": "利古里亚海",
+        "ID": "28d",
+        "Longitude": 8.9139465598599994,
+        "Latitude": 43.722295437699998,
+        "min_X": 7.5389963391099997,
+        "min_Y": 42.864424163869998,
+        "max_X": 9.8520580528400004,
+        "max_Y": 44.427202940059999,
+        "area": 16949,
+        "MRGID": 3363
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.763700105136376, 43.640803202612005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Gulf of Guinea",
+        "NAME_ES": "Golfo de Guinea",
+        "NAME_PT": "Golfo da Guiné",
+        "NAME_FR": "Golfe de Guinée",
+        "NAME_ID": "Laut Guinea",
+        "NAME_ZH": "几内亚湾",
+        "ID": "34",
+        "Longitude": 3.0508982375999998,
+        "Latitude": 3.25469544082,
+        "min_X": -7.7263356449699998,
+        "min_Y": -0.93603257150999997,
+        "max_X": 10.182686925060001,
+        "max_Y": 6.6226936574900002,
+        "area": 754844,
+        "MRGID": 4286
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.580143276895858, 2.843870997748404]
+      }
+    }
+  ]
+}

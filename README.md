@@ -6,6 +6,8 @@ Location labels data used to generate pm tiles layer
 
 `geonames.geojson` (source: [www.geonames.org/](https://www.geonames.org/))
 
+`seas.geojson` (source: [www.marineregions.org/](https://www.marineregions.org/))
+
 ## How to use
 
 Install [tippecanoe](https://github.com/mapbox/tippecanoe)
