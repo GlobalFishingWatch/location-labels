@@ -2,9 +2,7 @@
 Location labels data used to generate pm tiles layer
 
 ## Input datasets
-`countries.geojson` (source: GFW)
-
-`geonames.geojson` (source: [www.geonames.org/](https://www.geonames.org/))
+`ne_10m_admin_[0-1]` (source: [www.naturalearthdata.com](https://www.naturalearthdata.com))
 
 `seas.geojson` (source: [www.marineregions.org/](https://www.marineregions.org/))
 
