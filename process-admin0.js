@@ -11,9 +11,13 @@ export async function processAdmin0() {
   const countries = await convertShapefile("./input/ne_10m_admin_0_countries/ne_10m_admin_0_countries");
 
   // console.log('processCountries:', countries.features[0].properties)
-  console.log(countries.features.length,countries.features.filter(country => country.properties.POP_EST).length);
+  // console.log(countries.features.length,countries.features.filter(country => country.properties.POP_EST).length);
   
-  return countries.features.map(country => {
+  return countries.features.flatMap(country => {
+    if (country.properties.POP_EST <= 1000) {
+      return [];
+    }
+
     return {
         type: 'Feature',
         geometry: {
