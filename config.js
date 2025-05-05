@@ -3,4 +3,4 @@ export const MAX_POPULATIONRANK_CITY = -100;
 export const POPULATIONRANK_STATE = 0;
 export const MIN_POPULATIONRANK_COUNTRY = 100;
 export const MAX_POPULATIONRANK_COUNTRY = 1000;
-export const MAX_ZOOM = 20; 
+export const MAX_ZOOM = 20;

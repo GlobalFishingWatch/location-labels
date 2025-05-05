@@ -9,9 +9,9 @@ try {
   const states = await processAdmin1();
   const cities = await processCities();
   const seas = await processSeas();
-  
+
   const allFeatures = [...countries, ...states, ...cities, ...seas];
-  
+
   const charSet = new Set();
   allFeatures.forEach((feature) => {
     const name = feature.properties.name || "";
@@ -25,13 +25,17 @@ try {
       charSet.add(char);
     });
   });
-  
+
   console.log("CHARSET:");
   console.log(Array.from(charSet).sort().join(""));
 
   fs.writeFileSync(
     "./output/geonames_with_scalerank.geojson",
-    JSON.stringify({ type: "FeatureCollection", features: allFeatures }, null, 2)
+    JSON.stringify(
+      { type: "FeatureCollection", features: allFeatures },
+      null,
+      2
+    )
   );
 } catch (error) {
   console.error("Error processing tiles:", error);
