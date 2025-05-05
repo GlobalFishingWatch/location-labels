@@ -6,24 +6,6 @@ import {
   MAX_ZOOM,
 } from "./config.js";
 
-function _getSize(rank) {
-  if (rank < -900) {
-    return 12;
-  } else if (rank < -800) {
-    return 12.5;
-  } else if (rank < -700) {
-    return 13;
-  } else if (rank < -600) {
-    return 13.5;
-  } else if (rank < -500) {
-    return 14;
-  } else if (rank < -400) {
-    return 14.5;
-  } else if (rank < -300) {
-    return 15;
-  }
-  return 15;
-}
 
 export async function processCities() {
   const citiesFile = fs.readFileSync("./input/geonames.geojson", "utf8");
